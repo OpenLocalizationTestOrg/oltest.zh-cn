@@ -1,4 +1,20 @@
 {
-  "LastProcessedCommit": "b4b1f2a28f417046e11971c3ee73c591611f167b",
-  "Items": {}
+  "LastProcessedCommit": "72e95f68f682895ad07045ec7f25b2166c0ee766",
+  "Items": {
+    "20b8a6d10c66df26017475a96c68ade136cc60e0": {
+      "SourceFileCommit": "72e95f68f682895ad07045ec7f25b2166c0ee766",
+      "SourceFilePath": "e2e\\test-scenario-1.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\master\\20b8a6d10c66df26017475a96c68ade136cc60e0.xlf",
+      "HandoffFileCommit": "c42d11d5a7c5d99400fbfacc914db2803af4931a",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-10-20T02:20:27.2818405Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null
+    }
+  }
 }
