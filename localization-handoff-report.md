@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\test-scenario-1.md](https://github.com/OpenLocalizationTest/oltest/blob/a5287759ee19d999486c30f70b7686d01ea0d695/e2e/test-scenario-1.md) | HandedOff | [Details](#e95ba46a6944d097bac52cb8257a64c4e422238b1)
+ [e2e\osmond-test-1.md](https://github.com/OpenLocalizationTest/oltest/blob/f4b3096e48dfeb999c383c55a46706a9a3b95935/e2e/osmond-test-1.md) | HandedOff | [Details](#47609b0422629832c77370a4324229c7153ccdd71)
 
 ## Item Details
-##### <a name='e95ba46a6944d097bac52cb8257a64c4e422238b1'></a> Source: [e2e\test-scenario-1.md](https://github.com/OpenLocalizationTest/oltest/blob/a5287759ee19d999486c30f70b7686d01ea0d695/e2e/test-scenario-1.md)
+##### <a name='47609b0422629832c77370a4324229c7153ccdd71'></a> Source: [e2e\osmond-test-1.md](https://github.com/OpenLocalizationTest/oltest/blob/f4b3096e48dfeb999c383c55a46706a9a3b95935/e2e/osmond-test-1.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [e95ba46a6944d097bac52cb8257a64c4e422238b.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/35536286824e5a11888515e7b4ae6fc521d4415f/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/e95ba46a6944d097bac52cb8257a64c4e422238b.xlf)
+* Handoff File: [osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/9409763d56a0eab0f0ee07cc0c6e2ec61787719d/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.zh-cn.xlf)
 * Handback File: 
-* Handoff Datetime: 2015-10-20 02:25:53
+* Handoff Datetime: 2015-11-06 07:23:55
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Include
 * [Back to Top](#report-top)
