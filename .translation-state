@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "f4b3096e48dfeb999c383c55a46706a9a3b95935",
+  "LastProcessedCommit": "678fced849653574f9c3722b900f6ed4f24223d7",
   "LastTranslatedCommit": "ed2810913f07afe80cd8049db04fd7ec7d55a1c2",
   "Items": {
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
@@ -30,6 +30,21 @@
       "HandbackFileCommit": "1e13eb945b0aaf2756c9b50d122f74bb1ed6120a",
       "HandbackDateTime": "2015-11-06T07:36:12.0641516Z",
       "UpdatedDateTime": "2015-11-06T07:36:12.0641516Z",
+      "DependencyFrom": null
+    },
+    "87028e0d2781426cb50ddc9e5bec0a61532ca653": {
+      "SourceFileCommit": "678fced849653574f9c3722b900f6ed4f24223d7",
+      "SourceFilePath": "e2e\\generate-warning&error.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\master\\generate-warning&error.2eda3fc349b1c4e695c8f4aec97de83671e3c92e.zh-cn.xlf",
+      "HandoffFileCommit": "8e51ff398208e0c7a2fd9544ef1c5acc8faee0d5",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-09T03:52:24.0240714Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": null
     }
   }
