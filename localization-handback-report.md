@@ -1,25 +1,14 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\6be09a29-ac58-408a-9f66-0e58c28affe8.md](https://github.com/OpenLocalizationTest/oltest/blob/176780e8c152f494b4dbc06d5b8268e11300a2c7/e2e/6be09a29-ac58-408a-9f66-0e58c28affe8.md) | PartialHandedBack | [Details](#8c6676772d0d46e385649f1112bd9f806496eae21)
  [e2e\d60a4558-eb40-4089-a90c-4deef3de19a2.md](https://github.com/OpenLocalizationTest/oltest/blob/176780e8c152f494b4dbc06d5b8268e11300a2c7/e2e/d60a4558-eb40-4089-a90c-4deef3de19a2.md) | PartialHandedBack | [Details](#49b91821dfd06a1cbd7ee9188d1bf5f5017158a82)
 
 ## Item Details
-##### <a name='8c6676772d0d46e385649f1112bd9f806496eae21'></a> Source: [e2e\6be09a29-ac58-408a-9f66-0e58c28affe8.md](https://github.com/OpenLocalizationTest/oltest/blob/176780e8c152f494b4dbc06d5b8268e11300a2c7/e2e/6be09a29-ac58-408a-9f66-0e58c28affe8.md)
-* Status: PartialHandedBack
-* Target File: [e2e\6be09a29-ac58-408a-9f66-0e58c28affe8.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/cfd5ee1d17fd68e906b519beb84a44de7c2ef874/e2e/6be09a29-ac58-408a-9f66-0e58c28affe8.md)
-* Handoff File: [6be09a29-ac58-408a-9f66-0e58c28affe8.4a8638325e8079210397e6ef60b105728bcdbe69.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/a70a84d0932970802ce71b058f362c03e3cf5a13/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/yanz/6be09a29-ac58-408a-9f66-0e58c28affe8.4a8638325e8079210397e6ef60b105728bcdbe69.zh-cn.xlf)
-* Handoff Datetime: 2015-11-12 10:28:48
-* Handoff Reason: Include
-* Handback File: [6be09a29-ac58-408a-9f66-0e58c28affe8.4a8638325e8079210397e6ef60b105728bcdbe69.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/bfae41f6854d2750e43e45bc981f1c1e29ca10e9/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/yanz/6be09a29-ac58-408a-9f66-0e58c28affe8.4a8638325e8079210397e6ef60b105728bcdbe69.zh-cn.xlf)
-* Handback Datetime: 2015-11-12 10:29:22
-* [Back to Top](#report-top)
-
 ##### <a name='49b91821dfd06a1cbd7ee9188d1bf5f5017158a82'></a> Source: [e2e\d60a4558-eb40-4089-a90c-4deef3de19a2.md](https://github.com/OpenLocalizationTest/oltest/blob/176780e8c152f494b4dbc06d5b8268e11300a2c7/e2e/d60a4558-eb40-4089-a90c-4deef3de19a2.md)
 * Status: PartialHandedBack
 * Target File: [e2e\d60a4558-eb40-4089-a90c-4deef3de19a2.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/cfd5ee1d17fd68e906b519beb84a44de7c2ef874/e2e/d60a4558-eb40-4089-a90c-4deef3de19a2.md)
