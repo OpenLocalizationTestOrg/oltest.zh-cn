@@ -11,15 +11,12 @@
 ## Item Details
 ##### <a name='1bec6cb51f824c312949976fd30a2a9dea1851751'></a> Source: [e2e\6be09a29-ac58-408a-9f66-0e58c28affe8.md](https://github.com/OpenLocalizationTest/oltest/blob/015b0bbc49577a3e0e09e3cefe739afeff8f550a/e2e/6be09a29-ac58-408a-9f66-0e58c28affe8.md)
 * Status: PartialHandedBack
-* Target File: 
+* Target File: [e2e\6be09a29-ac58-408a-9f66-0e58c28affe8.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/f59b365cb2d22ba49ca2d1b32b48536582b187ea/e2e/6be09a29-ac58-408a-9f66-0e58c28affe8.md)
 * Handoff File: [6be09a29-ac58-408a-9f66-0e58c28affe8.4a8638325e8079210397e6ef60b105728bcdbe69.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/c8d726889583db69f9351146cf82bd406234b909/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/yanz/6be09a29-ac58-408a-9f66-0e58c28affe8.4a8638325e8079210397e6ef60b105728bcdbe69.zh-cn.xlf)
 * Handoff Datetime: 2015-11-12 10:30:04
 * Handoff Reason: Include
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [e2e\6be09a29-ac58-408a-9f66-0e58c28affe8.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/cfd5ee1d17fd68e906b519beb84a44de7c2ef874/e2e/6be09a29-ac58-408a-9f66-0e58c28affe8.md)
-* Current Handback File: [6be09a29-ac58-408a-9f66-0e58c28affe8.4a8638325e8079210397e6ef60b105728bcdbe69.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/bfae41f6854d2750e43e45bc981f1c1e29ca10e9/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/yanz/6be09a29-ac58-408a-9f66-0e58c28affe8.4a8638325e8079210397e6ef60b105728bcdbe69.zh-cn.xlf)
-* Current Handback Datetime: 2015-11-12 10:29:22
+* Handback File: [6be09a29-ac58-408a-9f66-0e58c28affe8.4a8638325e8079210397e6ef60b105728bcdbe69.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/85dccc5078fd93dbe949b14331e27f1017b6db31/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/yanz/6be09a29-ac58-408a-9f66-0e58c28affe8.4a8638325e8079210397e6ef60b105728bcdbe69.zh-cn.xlf)
+* Handback Datetime: 2015-11-12 10:30:43
 * [Back to Top](#report-top)
 
 
