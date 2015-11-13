@@ -4,27 +4,27 @@
  Property | Value 
  -------- | ----- 
  Total Files | 2
-[ Handoff Files ](#handoff-list)| 0
+[ Handoff Files ](#handoff-list)| 1
 [ Partial Handback Files ](#partial-handback-list)| 0
-[ Full Handback Files ](#full-handback-list)| 1
+[ Full Handback Files ](#full-handback-list)| 0
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-list'></a> Handoff File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\a.md](https://github.com/OpenLocalizationTest/oltest/blob/228e6db600fa71394d99e3a32622091e4394f930/e2e/a.md) | HandedOff | [Details](#ef90a3d2ee1c4ea899909e307b43c4b28aade2521)
 
 ## <a name='partial-handback-list'></a> Partial Handback File List
 
 ## <a name='handback-list'></a> Full Handback File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\47674261-119e-4a8c-8c3b-189f7d13ed0f.md](https://github.com/OpenLocalizationTest/oltest/blob/904bc17f19cf127128cf9690f820081f7c31d096/e2e/47674261-119e-4a8c-8c3b-189f7d13ed0f.md) | FullHandedBack | [Details](#5c5c8894d671893a87305213cc63e99b317da06e1)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/d7e2eb41831c8a4c16e6ca21a81f8efd166692c1/.localization-config) | Ignored | [Details](#048a0e657b81f2e30d1cbef1ba533f0de3ca11c40)
+ [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/228e6db600fa71394d99e3a32622091e4394f930/.localization-config) | Ignored | [Details](#048a0e657b81f2e30d1cbef1ba533f0de3ca11c40)
 
 ## Item Details
-##### <a name='048a0e657b81f2e30d1cbef1ba533f0de3ca11c40'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/d7e2eb41831c8a4c16e6ca21a81f8efd166692c1/.localization-config)
+##### <a name='048a0e657b81f2e30d1cbef1ba533f0de3ca11c40'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/228e6db600fa71394d99e3a32622091e4394f930/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -34,14 +34,14 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5c5c8894d671893a87305213cc63e99b317da06e1'></a> Source: [e2e\47674261-119e-4a8c-8c3b-189f7d13ed0f.md](https://github.com/OpenLocalizationTest/oltest/blob/904bc17f19cf127128cf9690f820081f7c31d096/e2e/47674261-119e-4a8c-8c3b-189f7d13ed0f.md)
-* Status: FullHandedBack
-* Target File: [e2e\47674261-119e-4a8c-8c3b-189f7d13ed0f.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/e2b44b7a9b2e8e681d18850386ed282a83d81fc0/e2e/47674261-119e-4a8c-8c3b-189f7d13ed0f.md)
-* Handoff File: [47674261-119e-4a8c-8c3b-189f7d13ed0f.33634caa01310c5721f2e9f6781f9598a639866e.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/c7a66757e020b84c25b3a0336af1cd655bf36fbd/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/yanz/47674261-119e-4a8c-8c3b-189f7d13ed0f.33634caa01310c5721f2e9f6781f9598a639866e.zh-cn.xlf)
-* Handoff Datetime: 2015-11-13 09:46:50
+##### <a name='ef90a3d2ee1c4ea899909e307b43c4b28aade2521'></a> Source: [e2e\a.md](https://github.com/OpenLocalizationTest/oltest/blob/228e6db600fa71394d99e3a32622091e4394f930/e2e/a.md)
+* Status: HandedOff
+* Target File: 
+* Handoff File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/b7fbe13a02ae053d1d99d35d38eb62499766a792/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/yanz/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.zh-cn.xlf)
+* Handoff Datetime: 2015-11-13 09:49:15
 * Handoff Reason: Include
-* Handback File: [47674261-119e-4a8c-8c3b-189f7d13ed0f.33634caa01310c5721f2e9f6781f9598a639866e.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/ed3f11b6c6a70ab051cd39693e94baab0045a9d8/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/yanz/47674261-119e-4a8c-8c3b-189f7d13ed0f.33634caa01310c5721f2e9f6781f9598a639866e.zh-cn.xlf)
-* Handback Datetime: 2015-11-13 09:47:35
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 
