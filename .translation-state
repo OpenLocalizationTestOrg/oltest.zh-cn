@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "bdfa56ec0e4ab0fc9ed3af331319ff5a01c2b6a3",
+  "LastProcessedCommit": "a090472bb3aae95e6399e2757d5585c1e667b53b",
   "LastTranslatedCommit": "0c53c57b3d88604081835c2fcf3392668d120b55",
   "Items": {
     "a9ed7499b2a2f65e2fa0c49d649356f2da55871b": {
@@ -491,6 +491,25 @@
       "HandbackFileCommit": "7d5d676aa13a3c1aee8d5df8491f9ef7d3885028",
       "HandbackDateTime": "2015-11-13T08:53:07.8931813Z",
       "UpdatedDateTime": "2015-11-13T08:53:07.8931813Z",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\a1a7c9ca-26be-4590-a6e5-b3476b812e75.md"
+      ]
+    },
+    "8d207655c1ebe21b164541bc6bc420a3b85b866a": {
+      "FileHash": "8d207655c1ebe21b164541bc6bc420a3b85b866a",
+      "SourceFileCommit": "a090472bb3aae95e6399e2757d5585c1e667b53b",
+      "SourceFilePath": "e2e\\a1a7c9ca-26be-4590-a6e5-b3476b812e75.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffReason": 1,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": null,
       "FilePathList": [
         "e2e\\a1a7c9ca-26be-4590-a6e5-b3476b812e75.md"
