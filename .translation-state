@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "b3a38a9760ef567b1919b314edf87da925053cef",
+  "LastProcessedCommit": "4e300454c5a7d05a520cd2a7739a2f89b7e7f180",
   "LastTranslatedCommit": "86438c7ec50e993ad7d4395ce526984ef42a0dfc",
   "Items": {
     "a9ed7499b2a2f65e2fa0c49d649356f2da55871b": {
@@ -1064,6 +1064,44 @@
       "DependencyFrom": null,
       "FilePathList": [
         "e2e\\a.md"
+      ]
+    },
+    "1e789085db8fc483efffd15e72bed06878ee0e69": {
+      "FileHash": "1e789085db8fc483efffd15e72bed06878ee0e69",
+      "SourceFileCommit": "4e300454c5a7d05a520cd2a7739a2f89b7e7f180",
+      "SourceFilePath": "e2e\\0c311574-8e76-48ad-9d89-c12f3a317de3.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\yanz\\0c311574-8e76-48ad-9d89-c12f3a317de3.05bbef2411e983c42879390e38dfdc5e1a0e06ec.zh-cn.xlf",
+      "HandoffFileCommit": "daf96c298f22cd7303f5b934b4caaae267d732a7",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-26T07:13:52.4266964Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\0c311574-8e76-48ad-9d89-c12f3a317de3.md"
+      ]
+    },
+    "9dc9b9b96b93b2006546b2099ce765950e020e6d": {
+      "FileHash": "9dc9b9b96b93b2006546b2099ce765950e020e6d",
+      "SourceFileCommit": "4e300454c5a7d05a520cd2a7739a2f89b7e7f180",
+      "SourceFilePath": "e2e\\bb0ca850-0711-4ed3-b50f-39807cd134cb.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\yanz\\bb0ca850-0711-4ed3-b50f-39807cd134cb.f7c8b1954412ef5f158f067fd14fffd676dd7bbf.zh-cn.xlf",
+      "HandoffFileCommit": "daf96c298f22cd7303f5b934b4caaae267d732a7",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-26T07:13:52.4266964Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\bb0ca850-0711-4ed3-b50f-39807cd134cb.md"
       ]
     }
   }
