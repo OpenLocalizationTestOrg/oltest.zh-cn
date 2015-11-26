@@ -4,27 +4,27 @@
  Property | Value 
  -------- | ----- 
  Total Files | 2
-[ Handoff Files ](#handoff-list)| 0
-[ Partial Handback Files ](#partial-handback-list)| 1
+[ Handoff Files ](#handoff-list)| 1
+[ Partial Handback Files ](#partial-handback-list)| 0
 [ Full Handback Files ](#full-handback-list)| 0
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-list'></a> Handoff File List
-
-## <a name='partial-handback-list'></a> Partial Handback File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\b0a8eacd-c174-43c1-88c5-d0676f761e91.md](https://github.com/OpenLocalizationTest/oltest/blob/1f852f58a701707f20848f260325e1d06624354a/e2e/b0a8eacd-c174-43c1-88c5-d0676f761e91.md) | PartialHandedBack | [Details](#ec46bfdc0dc80c66f179f505a48e27f9cee776ea1)
+ [e2e\a.md](https://github.com/OpenLocalizationTest/oltest/blob/a77631951bc7540b4b0f499478d61b2f48a68dd9/e2e/a.md) | HandedOff | [Details](#abf6ee6e876e5973f70c6c185f1a6418327a814f1)
+
+## <a name='partial-handback-list'></a> Partial Handback File List
 
 ## <a name='handback-list'></a> Full Handback File List
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/1f852f58a701707f20848f260325e1d06624354a/.localization-config) | Ignored | [Details](#048a0e657b81f2e30d1cbef1ba533f0de3ca11c40)
+ [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/a77631951bc7540b4b0f499478d61b2f48a68dd9/.localization-config) | Ignored | [Details](#048a0e657b81f2e30d1cbef1ba533f0de3ca11c40)
 
 ## Item Details
-##### <a name='048a0e657b81f2e30d1cbef1ba533f0de3ca11c40'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/1f852f58a701707f20848f260325e1d06624354a/.localization-config)
+##### <a name='048a0e657b81f2e30d1cbef1ba533f0de3ca11c40'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/a77631951bc7540b4b0f499478d61b2f48a68dd9/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -34,17 +34,14 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ec46bfdc0dc80c66f179f505a48e27f9cee776ea1'></a> Source: [e2e\b0a8eacd-c174-43c1-88c5-d0676f761e91.md](https://github.com/OpenLocalizationTest/oltest/blob/1f852f58a701707f20848f260325e1d06624354a/e2e/b0a8eacd-c174-43c1-88c5-d0676f761e91.md)
-* Status: PartialHandedBack
+##### <a name='abf6ee6e876e5973f70c6c185f1a6418327a814f1'></a> Source: [e2e\a.md](https://github.com/OpenLocalizationTest/oltest/blob/a77631951bc7540b4b0f499478d61b2f48a68dd9/e2e/a.md)
+* Status: HandedOff
 * Target File: 
-* Handoff File: [b0a8eacd-c174-43c1-88c5-d0676f761e91.f439501c127e725cec55a0bca564d2c1440cbf18.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/f5f4ebcb19ca1542544469264721c35060dd3b6b/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/yanz/b0a8eacd-c174-43c1-88c5-d0676f761e91.f439501c127e725cec55a0bca564d2c1440cbf18.zh-cn.xlf)
-* Handoff Datetime: 2015-11-16 15:24:51
+* Handoff File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/12bf85204d516d7a87ce6488b1d7832b16046d6c/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/yanz/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.zh-cn.xlf)
+* Handoff Datetime: 2015-11-26 07:12:25
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [e2e\b0a8eacd-c174-43c1-88c5-d0676f761e91.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/86438c7ec50e993ad7d4395ce526984ef42a0dfc/e2e/b0a8eacd-c174-43c1-88c5-d0676f761e91.md)
-* Current Handback File: [b0a8eacd-c174-43c1-88c5-d0676f761e91.f439501c127e725cec55a0bca564d2c1440cbf18.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/b3fdcc7a46aae061aa258de75506e41ecd2632f6/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/yanz/b0a8eacd-c174-43c1-88c5-d0676f761e91.f439501c127e725cec55a0bca564d2c1440cbf18.zh-cn.xlf)
-* Current Handback Datetime: 2015-11-16 14:56:02
 * [Back to Top](#report-top)
 
 
