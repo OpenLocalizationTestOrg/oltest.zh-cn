@@ -3,6 +3,7 @@
   "LastTranslatedCommit": "ed2810913f07afe80cd8049db04fd7ec7d55a1c2",
   "Items": {
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
+      "FileHash": "e95ba46a6944d097bac52cb8257a64c4e422238b",
       "SourceFileCommit": "a5287759ee19d999486c30f70b7686d01ea0d695",
       "SourceFilePath": "e2e\\test-scenario-1.md",
       "TargetFileCommit": "ed2810913f07afe80cd8049db04fd7ec7d55a1c2",
@@ -15,9 +16,13 @@
       "HandbackFileCommit": "1e13eb945b0aaf2756c9b50d122f74bb1ed6120a",
       "HandbackDateTime": "2015-11-06T07:36:12.0641516Z",
       "UpdatedDateTime": "2015-11-06T07:36:12.0641516Z",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\test-scenario-1.md"
+      ]
     },
     "47609b0422629832c77370a4324229c7153ccdd7": {
+      "FileHash": "47609b0422629832c77370a4324229c7153ccdd7",
       "SourceFileCommit": "f4b3096e48dfeb999c383c55a46706a9a3b95935",
       "SourceFilePath": "e2e\\osmond-test-1.md",
       "TargetFileCommit": "ed2810913f07afe80cd8049db04fd7ec7d55a1c2",
@@ -30,9 +35,13 @@
       "HandbackFileCommit": "1e13eb945b0aaf2756c9b50d122f74bb1ed6120a",
       "HandbackDateTime": "2015-11-06T07:36:12.0641516Z",
       "UpdatedDateTime": "2015-11-06T07:36:12.0641516Z",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\osmond-test-1.md"
+      ]
     },
     "87028e0d2781426cb50ddc9e5bec0a61532ca653": {
+      "FileHash": "87028e0d2781426cb50ddc9e5bec0a61532ca653",
       "SourceFileCommit": "678fced849653574f9c3722b900f6ed4f24223d7",
       "SourceFilePath": "e2e\\generate-warning&error.md",
       "TargetFileCommit": null,
@@ -45,9 +54,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\generate-warning&error.md"
+      ]
     },
     "a048092ef32f7167a3cfd0ab2718722bb0f90072": {
+      "FileHash": "a048092ef32f7167a3cfd0ab2718722bb0f90072",
       "SourceFileCommit": "bedd8c9cb1e3af637d2943e89230b72927130287",
       "SourceFilePath": "e2e\\testworkerrole.md",
       "TargetFileCommit": null,
@@ -60,7 +73,10 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\testworkerrole.md"
+      ]
     }
   }
 }
