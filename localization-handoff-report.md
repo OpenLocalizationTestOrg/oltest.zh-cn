@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\testworkerrole.md](https://github.com/OpenLocalizationTest/oltest/blob/bedd8c9cb1e3af637d2943e89230b72927130287/e2e/testworkerrole.md) | HandedOff | [Details](#a048092ef32f7167a3cfd0ab2718722bb0f900724)
+ [e2e\workerroletest.md](https://github.com/OpenLocalizationTest/oltest/blob/2ef267f1e71ac22b30828f9b0ed4854a65a2b381/e2e/workerroletest.md) | HandedOff | [Details](#adc83b19e793491b1c6ea0fd8b46cd9f32e592fc5)
 
 ## Item Details
-##### <a name='a048092ef32f7167a3cfd0ab2718722bb0f900724'></a> Source: [e2e\testworkerrole.md](https://github.com/OpenLocalizationTest/oltest/blob/bedd8c9cb1e3af637d2943e89230b72927130287/e2e/testworkerrole.md)
+##### <a name='adc83b19e793491b1c6ea0fd8b46cd9f32e592fc5'></a> Source: [e2e\workerroletest.md](https://github.com/OpenLocalizationTest/oltest/blob/2ef267f1e71ac22b30828f9b0ed4854a65a2b381/e2e/workerroletest.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [testworkerrole.b0a3cfcb60a89bf143be3196ab71d7fea2c0e324.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/688c434b41c7f6204331b6252e866987068e9fe5/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/testworkerrole.b0a3cfcb60a89bf143be3196ab71d7fea2c0e324.zh-cn.xlf)
-* Handoff Datetime: 2015-11-24 09:25:33
+* Handoff File: [workerroletest.dc40fb5e16870e53471bb0020c81ccf8829300ba.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/b9eb19cd2822b9e4c355fdf38fbcf9a9b93ade9b/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/workerroletest.dc40fb5e16870e53471bb0020c81ccf8829300ba.zh-cn.xlf)
+* Handoff Datetime: 2015-12-02 03:27:03
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
