@@ -27,11 +27,11 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/2ef267f1e71ac22b30828f9b0ed4854a65a2b381/.localization-config) | Ignored | [Details](#45623cbebfe3ff7ae6dcd668fe56b64141f1a7c10)
- [README.md](https://github.com/OpenLocalizationTest/oltest/blob/2ef267f1e71ac22b30828f9b0ed4854a65a2b381/README.md) | Ignored | [Details](#df59b048e07151e27715bf8782a1aefa6d87f0316)
+ [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/5561d45a99686aedc6c1caf5cf8ce7c001beacce/.localization-config) | Ignored | [Details](#03d7a5d0df50d84b2f02fc7ba2376819695e51f50)
+ [README.md](https://github.com/OpenLocalizationTest/oltest/blob/5561d45a99686aedc6c1caf5cf8ce7c001beacce/README.md) | Ignored | [Details](#df59b048e07151e27715bf8782a1aefa6d87f0316)
 
 ## Item Details
-##### <a name='45623cbebfe3ff7ae6dcd668fe56b64141f1a7c10'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/2ef267f1e71ac22b30828f9b0ed4854a65a2b381/.localization-config)
+##### <a name='03d7a5d0df50d84b2f02fc7ba2376819695e51f50'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/5561d45a99686aedc6c1caf5cf8ce7c001beacce/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -91,7 +91,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='df59b048e07151e27715bf8782a1aefa6d87f0316'></a> Source: [README.md](https://github.com/OpenLocalizationTest/oltest/blob/2ef267f1e71ac22b30828f9b0ed4854a65a2b381/README.md)
+##### <a name='df59b048e07151e27715bf8782a1aefa6d87f0316'></a> Source: [README.md](https://github.com/OpenLocalizationTest/oltest/blob/5561d45a99686aedc6c1caf5cf8ce7c001beacce/README.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
