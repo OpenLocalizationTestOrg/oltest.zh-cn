@@ -3,9 +3,9 @@
 ## Summary
  Property | Value 
  -------- | ----- 
- Total Files | 2
+ Total Files | 1
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1
+[ Handoff Success Files ](#handoff-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
@@ -14,9 +14,6 @@
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Sucess File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\test-content-1.md](https://github.com/OpenLocalizationTest/oltest/blob/eb2e4760950e5c40a9e112356bb87c6b5dd9b949/e2e/test-content-1.md) | HandedOffSuccess | [Details](#ac5610e14e35343352c9459b3e335b10c5a316371)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
@@ -27,25 +24,15 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/e1e27c8d257ceb0d4e3b999f8683f5296a4907a5/.localization-config) | Ignored | [Details](#4c07d5510fa5db14936afee14da1d1fa7170385f0)
+ [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/309936074d229e2a94469908b242ebd2c689b94a/.localization-config) | Ignored | [Details](#4c07d5510fa5db14936afee14da1d1fa7170385f0)
 
 ## Item Details
-##### <a name='4c07d5510fa5db14936afee14da1d1fa7170385f0'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/e1e27c8d257ceb0d4e3b999f8683f5296a4907a5/.localization-config)
+##### <a name='4c07d5510fa5db14936afee14da1d1fa7170385f0'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/309936074d229e2a94469908b242ebd2c689b94a/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='ac5610e14e35343352c9459b3e335b10c5a316371'></a> Source: [e2e\test-content-1.md](https://github.com/OpenLocalizationTest/oltest/blob/eb2e4760950e5c40a9e112356bb87c6b5dd9b949/e2e/test-content-1.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [test-content-1.fc92bd3ea58825d16dce72b4174897baa7b370e7.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/ef34d972627d138eea93e20b4a3ded4d61294a49/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/test-content-1.fc92bd3ea58825d16dce72b4174897baa7b370e7.zh-cn.xlf)
-* Handoff Datetime: 2015-12-27 05:37:07
-* Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
