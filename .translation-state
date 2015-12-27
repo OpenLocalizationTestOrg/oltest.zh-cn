@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "4e030d278c1f98a2a53edd417a65a6c18b3a55d7",
+  "LastProcessedCommit": "987e62a299262a148cf86465e9ded1d9a477cc40",
   "LastTranslatedCommit": null,
   "Items": {
     "8ec3b406e1faac1a24b8c117b65d199fa4c00336": {
@@ -59,7 +59,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2015-12-27T04:55:59.8063227Z",
+      "HandoffDateTime": "2015-12-27T04:57:17.734495Z",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
         "internal_error_message": "Handoff source file: e2e\\3e09b8c8-5e94-4276-9e33-e997d849077f.md transformed failed.",
@@ -69,7 +69,7 @@
         "stack_trace": "   at Microsoft.Content.Build.Components.MarkdownHtmlBlock..ctor(String value)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.<ParseHtmlQuote>b__c(Match match, List`1 itemList)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.ParseBlockItemCommon(List`1 inputItems, Regex regex, Action`2 action)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.ParseHtmlQuote(List`1 inputItems)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadInternal(String fileContent)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadFromContent(String fileContent)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.MarkdownToXliffCore(Stream markdownStream, Stream xliffStream, Stream sklStream, String contentClass, String locale)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, Stream sourceStream, Stream xliffStream, Stream skeletonStream, String contentClass, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, String markdownFile, String xliffFile, String skeletonFile, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String targetLocale, String xliffVersion) in D:\\Workspace\\OpenLocalization\\OpenLocalization\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 26\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandoffFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, TranslationState translationState, TranslationConfig config, Dictionary`2 filePathInfo) in D:\\Workspace\\OpenLocalization\\OpenLocalization\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 264",
         "extended_information": null
       },
-      "HandoffFailureTimes": 2,
+      "HandoffFailureTimes": 3,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -114,6 +114,29 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\qimu\\fca5056e-5f64-40db-8b84-b45d10938cd6.885d1eff4b73a836436fa660bdb1f57624cc6b9c.zh-cn.xlf",
       "HandoffFileCommit": "6c51b5d8fc0bbf1ee8e1085c35e051cafe073f15",
       "HandoffDateTime": "2015-12-27T04:55:59.8063227Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "80952675ed83e726a9299c1e8f5ef1fc7d808825": {
+      "FileHash": "80952675ed83e726a9299c1e8f5ef1fc7d808825",
+      "SourceFileCommit": "987e62a299262a148cf86465e9ded1d9a477cc40",
+      "SourceFilePath": "e2e\\fca5056e-5f64-40db-8b84-b45d10938cd6.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\fca5056e-5f64-40db-8b84-b45d10938cd6.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\qimu\\fca5056e-5f64-40db-8b84-b45d10938cd6.885d1eff4b73a836436fa660bdb1f57624cc6b9c.zh-cn.xlf",
+      "HandoffFileCommit": "55b1302cdc3c5c4ec87100fa7f9f7d0d3f966b96",
+      "HandoffDateTime": "2015-12-27T04:57:17.734495Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
