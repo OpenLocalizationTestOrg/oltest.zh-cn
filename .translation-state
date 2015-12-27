@@ -228,7 +228,7 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "2015-12-27T06:18:16.7859331Z",
+      "HandbackDateTime": "2015-12-27T06:18:39.106638Z",
       "HandbackException": {
         "internal_error_code": "handback_validate_file_name_invalide",
         "internal_error_message": "Handback file name: bg3a33bv.zfk is different with handoff file name: 346badc9-3a7e-4a9c-b789-bf92dc21d7d6.59dba05159c90fecc115ac79164189a2298c50df.zh-cn.",
@@ -238,7 +238,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
