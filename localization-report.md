@@ -3,13 +3,13 @@
 ## Summary
  Property | Value 
  -------- | ----- 
- Total Files | 5
+ Total Files | 6
 [ Handoff Failed Files ](#handoff-failed-list)| 0
 [ Handoff Success Files ](#handoff-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
 [ In Sync Handback Files ](#insync-handback-success-list)| 3
-[ Ignored Files ](#ignored-list)| 1
+[ Ignored Files ](#ignored-list)| 2
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -33,6 +33,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/0f88194bfe2c1d233db06fc6b24eb513cba57957/.localization-config) | Ignored | [Details](#1b1b1cababca9a843d46cac6cc08988e221902dd0)
+ [e2e\e37d8120-d412-45d1-a946-f6f2cb5f9969.md](https://github.com/OpenLocalizationTest/oltest/blob/0f88194bfe2c1d233db06fc6b24eb513cba57957/e2e/e37d8120-d412-45d1-a946-f6f2cb5f9969.md) | Ignored | [Details](#13b12e0d6731dbe2d810a1e04b735d96f6e6d5915)
 
 ## Item Details
 ##### <a name='1b1b1cababca9a843d46cac6cc08988e221902dd0'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/0f88194bfe2c1d233db06fc6b24eb513cba57957/.localization-config)
@@ -86,6 +87,16 @@
 * Handoff Reason: Include
 * Handback File: [6fd10f86-9a90-467b-8b0d-5569e247baa6.6b86ce252bc2c9cb3cbbef349191a946596aed7d.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/00618ea0734bd65fac19b42ebcefb5e827c02659/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/qimu/6fd10f86-9a90-467b-8b0d-5569e247baa6.6b86ce252bc2c9cb3cbbef349191a946596aed7d.zh-cn.xlf)
 * Handback Datetime: 2015-12-27 06:11:34
+* [Back to Top](#report-top)
+
+##### <a name='13b12e0d6731dbe2d810a1e04b735d96f6e6d5915'></a> Source: [e2e\e37d8120-d412-45d1-a946-f6f2cb5f9969.md](https://github.com/OpenLocalizationTest/oltest/blob/0f88194bfe2c1d233db06fc6b24eb513cba57957/e2e/e37d8120-d412-45d1-a946-f6f2cb5f9969.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 
