@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "af33a8abc95e13e369df84b6dc1fd225eb48b277",
+  "LastProcessedCommit": "5269e526bd9a151ca325c6839eb963075dfe5690",
   "LastTranslatedCommit": null,
   "Items": {
     "3346a1f68acf3fe95cc2d8b213d0878bae4b4d03": {
@@ -82,7 +82,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2015-12-27T06:24:06.7542561Z",
+      "HandoffDateTime": "2015-12-27T06:25:17.4241325Z",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
         "internal_error_message": "Handoff source file: e2e\\fafc2b20-2f4f-4d30-8bd7-00a76068c36d.md transformed failed.",
@@ -92,7 +92,7 @@
         "stack_trace": "   at Microsoft.Content.Build.Components.MarkdownHtmlBlock..ctor(String value)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.<ParseHtmlQuote>b__c(Match match, List`1 itemList)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.ParseBlockItemCommon(List`1 inputItems, Regex regex, Action`2 action)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.ParseHtmlQuote(List`1 inputItems)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadInternal(String fileContent)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadFromContent(String fileContent)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.MarkdownToXliffCore(Stream markdownStream, Stream xliffStream, Stream sklStream, String contentClass, String locale)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, Stream sourceStream, Stream xliffStream, Stream skeletonStream, String contentClass, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, String markdownFile, String xliffFile, String skeletonFile, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String targetLocale, String xliffVersion) in D:\\Workspace\\OpenLocalization\\OpenLocalization\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 26\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandoffFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, TranslationState translationState, TranslationConfig config, Dictionary`2 filePathInfo) in D:\\Workspace\\OpenLocalization\\OpenLocalization\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 263",
         "extended_information": null
       },
-      "HandoffFailureTimes": 5,
+      "HandoffFailureTimes": 6,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -170,6 +170,29 @@
         "extended_information": null
       },
       "HandoffFailureTimes": 1,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "da8c8ff0209442a163d92eb14c22ae74f20bd702": {
+      "FileHash": "da8c8ff0209442a163d92eb14c22ae74f20bd702",
+      "SourceFileCommit": "5269e526bd9a151ca325c6839eb963075dfe5690",
+      "SourceFilePath": "e2e\\25dc00b4-1959-4bce-bf18-caf1dc397bbf.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\25dc00b4-1959-4bce-bf18-caf1dc397bbf.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\qimu\\25dc00b4-1959-4bce-bf18-caf1dc397bbf.35282d434bc70dc74bd718718461c201aa252a9d.zh-cn.xlf",
+      "HandoffFileCommit": "e08e6208185ce5477ed2dbabb41056cd3f3fc7d8",
+      "HandoffDateTime": "2015-12-27T06:25:17.4241325Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,

@@ -4,8 +4,8 @@
  Property | Value 
  -------- | ----- 
  Total Files | 6
-[ Handoff Failed Files ](#handoff-failed-list)| 2
-[ Handoff Success Files ](#handoff-success-list)| 3
+[ Handoff Failed Files ](#handoff-failed-list)| 1
+[ Handoff Success Files ](#handoff-success-list)| 4
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
@@ -14,12 +14,12 @@
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\25dc00b4-1959-4bce-bf18-caf1dc397bbf.md](https://github.com/OpenLocalizationTest/oltest/blob/af33a8abc95e13e369df84b6dc1fd225eb48b277/e2e/25dc00b4-1959-4bce-bf18-caf1dc397bbf.md) | HandedOffFailed | [Details](#c09583c568ebfb5e4069473746fd724bd3c71ef91)
  [e2e\fafc2b20-2f4f-4d30-8bd7-00a76068c36d.md](https://github.com/OpenLocalizationTest/oltest/blob/aeb1dc3fa6916c06fe1edd9a08e3f8051cc3c610/e2e/fafc2b20-2f4f-4d30-8bd7-00a76068c36d.md) | HandedOffFailed | [Details](#45365ec4a22c4cf75c1d8bd1c17367c7d823b91c5)
 
 ## <a name='handoff-success-list'></a> Handoff Sucess File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [e2e\25dc00b4-1959-4bce-bf18-caf1dc397bbf.md](https://github.com/OpenLocalizationTest/oltest/blob/5269e526bd9a151ca325c6839eb963075dfe5690/e2e/25dc00b4-1959-4bce-bf18-caf1dc397bbf.md) | HandedOffSuccess | [Details](#da8c8ff0209442a163d92eb14c22ae74f20bd7021)
  [e2e\6d37017e-a636-4e6c-9c8b-8bbddcb19db3.md](https://github.com/OpenLocalizationTest/oltest/blob/d29b484a5dfa11a1c56d691957da70601008e208/e2e/6d37017e-a636-4e6c-9c8b-8bbddcb19db3.md) | HandedOffSuccess | [Details](#94dff1e77e7bcc55366d0eae238da6f6c7fa15b22)
  [e2e\bb6971cc-a80f-4dba-a84e-c48959d7786a.md](https://github.com/OpenLocalizationTest/oltest/blob/aeb1dc3fa6916c06fe1edd9a08e3f8051cc3c610/e2e/bb6971cc-a80f-4dba-a84e-c48959d7786a.md) | HandedOffSuccess | [Details](#61e5005d00cb88b74f414e3b8236e163ac3d00d93)
  [e2e\d0a821d1-720b-4a8d-b281-f759e7073926.md](https://github.com/OpenLocalizationTest/oltest/blob/5ab28516eda0d82f9d5dc0ae20b1c98b5ef840d6/e2e/d0a821d1-720b-4a8d-b281-f759e7073926.md) | HandedOffSuccess | [Details](#23a1c255795dc34f0a60a40def7fc26971d0e01a4)
@@ -33,10 +33,10 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/af33a8abc95e13e369df84b6dc1fd225eb48b277/.localization-config) | Ignored | [Details](#1b1b1cababca9a843d46cac6cc08988e221902dd0)
+ [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/5269e526bd9a151ca325c6839eb963075dfe5690/.localization-config) | Ignored | [Details](#1b1b1cababca9a843d46cac6cc08988e221902dd0)
 
 ## Item Details
-##### <a name='1b1b1cababca9a843d46cac6cc08988e221902dd0'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/af33a8abc95e13e369df84b6dc1fd225eb48b277/.localization-config)
+##### <a name='1b1b1cababca9a843d46cac6cc08988e221902dd0'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/5269e526bd9a151ca325c6839eb963075dfe5690/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -46,13 +46,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c09583c568ebfb5e4069473746fd724bd3c71ef91'></a> Source: [e2e\25dc00b4-1959-4bce-bf18-caf1dc397bbf.md](https://github.com/OpenLocalizationTest/oltest/blob/af33a8abc95e13e369df84b6dc1fd225eb48b277/e2e/25dc00b4-1959-4bce-bf18-caf1dc397bbf.md)
-* Status: HandedOffFailed
+##### <a name='da8c8ff0209442a163d92eb14c22ae74f20bd7021'></a> Source: [e2e\25dc00b4-1959-4bce-bf18-caf1dc397bbf.md](https://github.com/OpenLocalizationTest/oltest/blob/5269e526bd9a151ca325c6839eb963075dfe5690/e2e/25dc00b4-1959-4bce-bf18-caf1dc397bbf.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Handoff Error: [handoff_transform_failed](#c09583c568ebfb5e4069473746fd724bd3c71ef91handoff_transform_failed)
+* Handoff File: [25dc00b4-1959-4bce-bf18-caf1dc397bbf.35282d434bc70dc74bd718718461c201aa252a9d.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/e08e6208185ce5477ed2dbabb41056cd3f3fc7d8/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/25dc00b4-1959-4bce-bf18-caf1dc397bbf.35282d434bc70dc74bd718718461c201aa252a9d.zh-cn.xlf)
+* Handoff Datetime: 2015-12-27 06:25:17
+* Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -100,12 +99,6 @@
 
 
 ## Error Details
-##### <a name='c09583c568ebfb5e4069473746fd724bd3c71ef91handoff_transform_failed'></a> Source: [e2e\25dc00b4-1959-4bce-bf18-caf1dc397bbf.md](#c09583c568ebfb5e4069473746fd724bd3c71ef91)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: e2e\25dc00b4-1959-4bce-bf18-caf1dc397bbf.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: e2e\\25dc00b4-1959-4bce-bf18-caf1dc397bbf.md transformed failed.","internal_error_retriable":false,"exception_message":"Invalid Xml when parsing: <p>hello <br> world</p>.","exception_type":"System.ArgumentException","stack_trace":"   at Microsoft.Content.Build.Components.MarkdownHtmlBlock..ctor(String value)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.<ParseHtmlQuote>b__c(Match match, List`1 itemList)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.ParseBlockItemCommon(List`1 inputItems, Regex regex, Action`2 action)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.ParseHtmlQuote(List`1 inputItems)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadInternal(String fileContent)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadFromContent(String fileContent)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.MarkdownToXliffCore(Stream markdownStream, Stream xliffStream, Stream sklStream, String contentClass, String locale)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, Stream sourceStream, Stream xliffStream, Stream skeletonStream, String contentClass, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, String markdownFile, String xliffFile, String skeletonFile, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String targetLocale, String xliffVersion) in D:\\Workspace\\OpenLocalization\\OpenLocalization\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 26\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandoffFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, TranslationState translationState, TranslationConfig config, Dictionary`2 filePathInfo) in D:\\Workspace\\OpenLocalization\\OpenLocalization\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 263","extended_information":null}
-
 ##### <a name='45365ec4a22c4cf75c1d8bd1c17367c7d823b91c5handoff_transform_failed'></a> Source: [e2e\fafc2b20-2f4f-4d30-8bd7-00a76068c36d.md](#45365ec4a22c4cf75c1d8bd1c17367c7d823b91c5)
 * Error Code: handoff_transform_failed
 * Error Message: Handoff source file: e2e\fafc2b20-2f4f-4d30-8bd7-00a76068c36d.md transformed failed.
