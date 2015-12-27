@@ -1,35 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\4a3d4668-c81c-4df2-9a56-b95e33a060ff.md](https://github.com/OpenLocalizationTest/oltest/blob/617216bd2294114569744c93e7200d576cec5fd6/e2e/4a3d4668-c81c-4df2-9a56-b95e33a060ff.md) | HandedOffSuccess | [Details](#aef256ea7823d91f2fa401d0e696f49410ec46f51)
- [e2e\aa2b956b-c08e-4f98-8e85-07414434843a.md](https://github.com/OpenLocalizationTest/oltest/blob/617216bd2294114569744c93e7200d576cec5fd6/e2e/aa2b956b-c08e-4f98-8e85-07414434843a.md) | HandedOffSuccess | [Details](#0db0f40465c654550b8014d73743607fb28c49e92)
 
 ## Item Details
-##### <a name='aef256ea7823d91f2fa401d0e696f49410ec46f51'></a> Source: [e2e\4a3d4668-c81c-4df2-9a56-b95e33a060ff.md](https://github.com/OpenLocalizationTest/oltest/blob/617216bd2294114569744c93e7200d576cec5fd6/e2e/4a3d4668-c81c-4df2-9a56-b95e33a060ff.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [4a3d4668-c81c-4df2-9a56-b95e33a060ff.a9ceabdc49daf534f4ff4924727cbe4522211732.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/a9b45bbcdc41d43a0fc942f63609262beee4f146/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/4a3d4668-c81c-4df2-9a56-b95e33a060ff.a9ceabdc49daf534f4ff4924727cbe4522211732.zh-cn.xlf)
-* Handoff Datetime: 2015-12-27 04:35:56
-* Handoff Reason: Include
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='0db0f40465c654550b8014d73743607fb28c49e92'></a> Source: [e2e\aa2b956b-c08e-4f98-8e85-07414434843a.md](https://github.com/OpenLocalizationTest/oltest/blob/617216bd2294114569744c93e7200d576cec5fd6/e2e/aa2b956b-c08e-4f98-8e85-07414434843a.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [aa2b956b-c08e-4f98-8e85-07414434843a.bb2a8f37c1bcbba9366dd54909cc57e47513be30.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/a9b45bbcdc41d43a0fc942f63609262beee4f146/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/aa2b956b-c08e-4f98-8e85-07414434843a.bb2a8f37c1bcbba9366dd54909cc57e47513be30.zh-cn.xlf)
-* Handoff Datetime: 2015-12-27 04:35:56
-* Handoff Reason: Include
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
