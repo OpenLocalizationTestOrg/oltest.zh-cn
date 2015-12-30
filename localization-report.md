@@ -32,10 +32,10 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/93390a1d903bba455fc03257c5e202dd61ff3263/.localization-config) | Ignored | [Details](#1b1b1cababca9a843d46cac6cc08988e221902dd0)
+ [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/608e5a034c743179f1c015e3e91eb14420bb3b4a/.localization-config) | Ignored | [Details](#1b1b1cababca9a843d46cac6cc08988e221902dd0)
 
 ## Item Details
-##### <a name='1b1b1cababca9a843d46cac6cc08988e221902dd0'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/93390a1d903bba455fc03257c5e202dd61ff3263/.localization-config)
+##### <a name='1b1b1cababca9a843d46cac6cc08988e221902dd0'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/608e5a034c743179f1c015e3e91eb14420bb3b4a/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -79,8 +79,8 @@
 ##### <a name='8949b6b5c6dece536283d6e0a6d600c3aa7146b84'></a> Source: [e2e\c551227f-e841-410f-bad7-bb804eba1056.md](https://github.com/OpenLocalizationTest/oltest/blob/99b465aca5acbfa7eda832384c33764299dbeb54/e2e/c551227f-e841-410f-bad7-bb804eba1056.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [c551227f-e841-410f-bad7-bb804eba1056.34a0c68414d46c2019faef8b6750df83670943fb.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/56f06470db0ca34af3d7043bb93ede6b7162a07e/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/c551227f-e841-410f-bad7-bb804eba1056.34a0c68414d46c2019faef8b6750df83670943fb.zh-cn.xlf)
-* Handoff Datetime: 2015-12-30 10:10:59
+* Handoff File: [c551227f-e841-410f-bad7-bb804eba1056.34a0c68414d46c2019faef8b6750df83670943fb.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/7a82edb62d2aded891885562e2a1b73169253391/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/c551227f-e841-410f-bad7-bb804eba1056.34a0c68414d46c2019faef8b6750df83670943fb.zh-cn.xlf)
+* Handoff Datetime: 2015-12-30 10:12:33
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
