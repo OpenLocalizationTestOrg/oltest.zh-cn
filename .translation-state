@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "32a644af1dfb06f8b5f889515d997467d81b5a6d",
+  "LastProcessedCommit": "f7d7d534a19d9c310151a20f7376605235331dbb",
   "LastTranslatedCommit": "034e67a4c9e6856f7e82b691628b1ec308e075d1",
   "Items": {
     "7fc743a45781b42712c130051e05b822a8769c4d": {
@@ -93,6 +93,29 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "2015-12-27T12:55:03.2730489Z"
+    },
+    "2b811829691fe6eac542be13b5cbc1a7536e02e9": {
+      "FileHash": "2b811829691fe6eac542be13b5cbc1a7536e02e9",
+      "SourceFileCommit": "f7d7d534a19d9c310151a20f7376605235331dbb",
+      "SourceFilePath": "e2e\\test-content-1.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\test-content-1.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\qimu\\test-content-1.fc92bd3ea58825d16dce72b4174897baa7b370e7.zh-cn.xlf",
+      "HandoffFileCommit": "30670d3c1d020f00fb7e33c7fd52033bbdacd42d",
+      "HandoffDateTime": "2015-12-30T09:53:32.2304457Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
 }
