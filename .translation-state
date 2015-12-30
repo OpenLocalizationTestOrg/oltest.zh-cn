@@ -228,7 +228,7 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "2015-12-30T10:07:37.5786091Z",
+      "HandbackDateTime": "2015-12-30T10:07:59.5413204Z",
       "HandbackException": {
         "internal_error_code": "handback_validate_file_name_invalide",
         "internal_error_message": "Handback file name: fscizfbc.mxf is different with handoff file name: 75ee6e9c-02c0-4c02-a534-347fee9a9b25.3acc7670aa841a95331716a2b2459dc5035c3398.zh-cn.",
@@ -238,7 +238,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
