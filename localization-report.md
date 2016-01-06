@@ -5,18 +5,15 @@
  -------- | ----- 
  Total Files | 6
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1
+[ Handoff Success Files ](#handoff-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 4
+[ In Sync Handback Files ](#insync-handback-success-list)| 5
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Sucess File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\8be48d29-d74f-41e7-b569-5d17eee2afeb.md](https://github.com/OpenLocalizationTest/oltest/blob/1128842776ba31b223eb8a294a445a233b7ea2dd/e2e/8be48d29-d74f-41e7-b569-5d17eee2afeb.md) | HandedOffSuccess | [Details](#bd8d3a0a726a7c4aba1510c053a584ebd9b054444)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
@@ -28,6 +25,7 @@
  [e2e\19380c33-443c-458b-b8f2-ae9fc1dd3854.md](https://github.com/OpenLocalizationTest/oltest/blob/3e9302b60f054379a6267548c89f724dfe38edd3/e2e/19380c33-443c-458b-b8f2-ae9fc1dd3854.md) | InSyncHandedBackSuccess | [Details](#8a1ae15bfc6dfc9aebb63727b3f630ac00c177ea1)
  [e2e\19380c33-443c-458b-b8f2-ae9fc1dd3854.md](https://github.com/OpenLocalizationTest/oltest/blob/3e9302b60f054379a6267548c89f724dfe38edd3/e2e/19380c33-443c-458b-b8f2-ae9fc1dd3854.md) | InSyncHandedBackSuccess | [Details](#8a1ae15bfc6dfc9aebb63727b3f630ac00c177ea3)
  [e2e\210adf17-59f8-4214-89ba-22ec9b170707.md](https://github.com/OpenLocalizationTest/oltest/blob/b976440ed24fddb8af4e3309674f21d8e85773fc/e2e/210adf17-59f8-4214-89ba-22ec9b170707.md) | InSyncHandedBackSuccess | [Details](#fd2dd69d4f3ea5be58b59da2d92fea6dc6d4311a2)
+ [e2e\8be48d29-d74f-41e7-b569-5d17eee2afeb.md](https://github.com/OpenLocalizationTest/oltest/blob/1128842776ba31b223eb8a294a445a233b7ea2dd/e2e/8be48d29-d74f-41e7-b569-5d17eee2afeb.md) | InSyncHandedBackSuccess | [Details](#bd8d3a0a726a7c4aba1510c053a584ebd9b054444)
  [e2e\b3a6f333-00f5-441f-b9a1-94d5905c51b7.md](https://github.com/OpenLocalizationTest/oltest/blob/1aed99e1a7ee9975158882fe2c508652552553e1/e2e/b3a6f333-00f5-441f-b9a1-94d5905c51b7.md) | InSyncHandedBackSuccess | [Details](#1f34f7a22d4d85007a36f57d937b36c5c88953a45)
 
 ## <a name='ignored-list'></a> Ignored File List
@@ -77,13 +75,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='bd8d3a0a726a7c4aba1510c053a584ebd9b054444'></a> Source: [e2e\8be48d29-d74f-41e7-b569-5d17eee2afeb.md](https://github.com/OpenLocalizationTest/oltest/blob/1128842776ba31b223eb8a294a445a233b7ea2dd/e2e/8be48d29-d74f-41e7-b569-5d17eee2afeb.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\8be48d29-d74f-41e7-b569-5d17eee2afeb.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/a89674c8adbe12d615b40663abda9dddb24bfc17/e2e/8be48d29-d74f-41e7-b569-5d17eee2afeb.md)
 * Handoff File: [8be48d29-d74f-41e7-b569-5d17eee2afeb.d904e7b55004a67ecb9e2f797b06886c83364cd0.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/3bf901e9f0fddf89660b5d5cd68cd8de7a459c31/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/8be48d29-d74f-41e7-b569-5d17eee2afeb.d904e7b55004a67ecb9e2f797b06886c83364cd0.zh-cn.xlf)
 * Handoff Datetime: 2016-01-06 03:46:06
 * Handoff Reason: Include
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [8be48d29-d74f-41e7-b569-5d17eee2afeb.d904e7b55004a67ecb9e2f797b06886c83364cd0.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/3d71b64012a6bb11662ffbe8710fb2c1175041c2/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/qimu/8be48d29-d74f-41e7-b569-5d17eee2afeb.d904e7b55004a67ecb9e2f797b06886c83364cd0.zh-cn.xlf)
+* Handback Datetime: 2016-01-06 03:46:47
 * [Back to Top](#report-top)
 
 ##### <a name='1f34f7a22d4d85007a36f57d937b36c5c88953a45'></a> Source: [e2e\b3a6f333-00f5-441f-b9a1-94d5905c51b7.md](https://github.com/OpenLocalizationTest/oltest/blob/1aed99e1a7ee9975158882fe2c508652552553e1/e2e/b3a6f333-00f5-441f-b9a1-94d5905c51b7.md)
