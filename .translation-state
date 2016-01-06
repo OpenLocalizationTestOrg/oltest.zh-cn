@@ -135,9 +135,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-01-06T16:27:30.7700659Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name:  osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.de-de is different with handoff file name: workerroletest.dc40fb5e16870e53471bb0020c81ccf8829300ba.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name:  osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.de-de is different with handoff file name: workerroletest.dc40fb5e16870e53471bb0020c81ccf8829300ba.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
