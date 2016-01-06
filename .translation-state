@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "60ebca20782d521d0142eb67e2ad12ba399ba9a2",
-  "LastTranslatedCommit": null,
+  "LastTranslatedCommit": "b4d41108f8b7374a14a6a06124929143be881727",
   "Items": {
     "59567e9284ab0a0861c8e5800813e412c42a1d62": {
       "FileHash": "59567e9284ab0a0861c8e5800813e412c42a1d62",
@@ -16,14 +16,14 @@
       "HandoffDateTime": "2016-01-06T03:35:23.8594935Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "b4d41108f8b7374a14a6a06124929143be881727",
+      "TargetFilePath": "e2e\\0b413747-b7b6-4d00-949b-e3b2498f37e5.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\oltest.zh-cn\\qimu\\0b413747-b7b6-4d00-949b-e3b2498f37e5.d0f770025a6a3b9fd9bb81b80dd41bfeb7ade9cf.zh-cn.xlf",
+      "HandbackFileCommit": "55a7cc338bf64ce4a60da5a95485700563aa9480",
+      "HandbackDateTime": "2016-01-06T03:36:05.8916237Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "2016-01-06T03:36:05.8916237Z"
     },
     "388d0046ddd5f0f325c9d2c9310db4a1a1f0732b": {
       "FileHash": "388d0046ddd5f0f325c9d2c9310db4a1a1f0732b",
@@ -39,14 +39,14 @@
       "HandoffDateTime": "2016-01-06T03:35:23.8594935Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "b4d41108f8b7374a14a6a06124929143be881727",
+      "TargetFilePath": "e2e\\210adf17-59f8-4214-89ba-22ec9b170707.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\oltest.zh-cn\\qimu\\210adf17-59f8-4214-89ba-22ec9b170707.1ac1ec60244ba414f4b8c3473187be7757d5a382.zh-cn.xlf",
+      "HandbackFileCommit": "55a7cc338bf64ce4a60da5a95485700563aa9480",
+      "HandbackDateTime": "2016-01-06T03:36:05.8916237Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "2016-01-06T03:36:05.8916237Z"
     }
   }
 }
