@@ -228,9 +228,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-01-07T09:14:43.5528939Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: h4m4qaen.h3t is different with handoff file name: 5e8146ff-e6cd-4ad8-ac21-33236a76dca4.ee09446d621edefbed32b54e7eddcf8c2815ce87.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: h4m4qaen.h3t is different with handoff file name: 5e8146ff-e6cd-4ad8-ac21-33236a76dca4.ee09446d621edefbed32b54e7eddcf8c2815ce87.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
