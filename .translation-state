@@ -20,9 +20,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-01-07T07:58:18.6734024Z",
+      "HandbackException": {
+        "internal_error_code": "handback_transform_failed",
+        "internal_error_message": "Handback file: C:\\gittest\\OpenLocalizationTest\\olhandback\\f824b1\\ol-handback\\OpenLocalizationTestOrg\\oltest.zh-cn\\yufeih\\9c9fbe9d-6af6-4262-99c0-c8477e4ffe30.1f2bfeed8592a682a5ee09d090a000c9541be0f3.zh-cn.xlf failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Data at the root level is invalid. Line 1, position 1.",
+        "exception_type": "System.Xml.XmlException",
+        "stack_trace": "   at System.Xml.XmlTextReaderImpl.Throw(Exception e)\r\n   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()\r\n   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()\r\n   at System.Xml.XmlReader.MoveToContent()\r\n   at System.Xml.XmlReader.ReadStartElement(String name)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadSkeletonInternal(XmlReader reader)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadSkeleton(Stream stream)\r\n   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.Transform(ILocalizationFile source)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.XliffToMarkdownCore(Stream xliffStream, Stream sklStream, Stream markdownStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, Stream xliffStream, Stream skeletonStream, Stream targetStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, String xliffFile, String skeletonFile, String markdownFile)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.XliffToMarkdown(String skeletonFile, String xliffFile, String mdfile) in E:\\caps\\OpenLocalization\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 40\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandbackFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, GitRepo handbackRepo, TranslationState translationInfo, Dictionary`2 filePathInfo) in E:\\caps\\OpenLocalization\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 356",
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     },
     "1916f2cbff0c8eb82674fbd29825c24c8ad77f5f": {
@@ -43,9 +51,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-01-07T07:58:18.6734024Z",
+      "HandbackException": {
+        "internal_error_code": "handback_transform_failed",
+        "internal_error_message": "Handback file: C:\\gittest\\OpenLocalizationTest\\olhandback\\f824b1\\ol-handback\\OpenLocalizationTestOrg\\oltest.zh-cn\\yufeih\\e0b546bc-17a2-405d-8be7-ab8f42080f05.32c764deb1b7887dc8e5cdf1ba138b8ec8c787a5.zh-cn.xlf failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Data at the root level is invalid. Line 1, position 1.",
+        "exception_type": "System.Xml.XmlException",
+        "stack_trace": "   at System.Xml.XmlTextReaderImpl.Throw(Exception e)\r\n   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()\r\n   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()\r\n   at System.Xml.XmlReader.MoveToContent()\r\n   at System.Xml.XmlReader.ReadStartElement(String name)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadSkeletonInternal(XmlReader reader)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadSkeleton(Stream stream)\r\n   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.Transform(ILocalizationFile source)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.XliffToMarkdownCore(Stream xliffStream, Stream sklStream, Stream markdownStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, Stream xliffStream, Stream skeletonStream, Stream targetStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, String xliffFile, String skeletonFile, String markdownFile)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.XliffToMarkdown(String skeletonFile, String xliffFile, String mdfile) in E:\\caps\\OpenLocalization\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 40\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandbackFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, GitRepo handbackRepo, TranslationState translationInfo, Dictionary`2 filePathInfo) in E:\\caps\\OpenLocalization\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 356",
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
