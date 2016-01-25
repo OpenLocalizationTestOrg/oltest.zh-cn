@@ -1,21 +1,33 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\cbae07d2-d130-47c4-838c-a3cc4cb73d0d.md](https://github.com/OpenLocalizationTest/oltest/blob/1c54e6dc2fd6fde1943d5497a0309a96b114644b/e2e/cbae07d2-d130-47c4-838c-a3cc4cb73d0d.md) | HandedOffFailed | [Details](#bbb5565fff263716a2d034ee79dcc0a7aac2f2cc1)
+ [e2e\4f872ba6-5f5e-4fed-ae4b-08952f4241ec.md](https://github.com/OpenLocalizationTest/oltest/blob/e74a80ce41411e17364d9d6491330c01720248cd/e2e/4f872ba6-5f5e-4fed-ae4b-08952f4241ec.md) | HandedOffSuccess | [Details](#04400b534cda6bca1d6f0fc7762f6d789d40c47f1)
+ [e2e\ffff733116a9-d2b7-4004-8f23-79f05e03e5b8.md](https://github.com/OpenLocalizationTest/oltest/blob/e74a80ce41411e17364d9d6491330c01720248cd/e2e/ffff733116a9-d2b7-4004-8f23-79f05e03e5b8.md) | HandedOffSuccess | [Details](#04400b534cda6bca1d6f0fc7762f6d789d40c47f2)
 
 ## Item Details
-##### <a name='bbb5565fff263716a2d034ee79dcc0a7aac2f2cc1'></a> Source: [e2e\cbae07d2-d130-47c4-838c-a3cc4cb73d0d.md](https://github.com/OpenLocalizationTest/oltest/blob/1c54e6dc2fd6fde1943d5497a0309a96b114644b/e2e/cbae07d2-d130-47c4-838c-a3cc4cb73d0d.md)
-* Status: HandedOffFailed
+##### <a name='04400b534cda6bca1d6f0fc7762f6d789d40c47f1'></a> Source: [e2e\4f872ba6-5f5e-4fed-ae4b-08952f4241ec.md](https://github.com/OpenLocalizationTest/oltest/blob/e74a80ce41411e17364d9d6491330c01720248cd/e2e/4f872ba6-5f5e-4fed-ae4b-08952f4241ec.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Handoff Error: [handoff_transform_failed](#bbb5565fff263716a2d034ee79dcc0a7aac2f2cc1handoff_transform_failed)
+* Handoff File: [4f872ba6-5f5e-4fed-ae4b-08952f4241ec.3582d9695a9dd21afa17630a94680e3c8b126d09.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/edc167c13b7933011032f418179e713bfda96518/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/4f872ba6-5f5e-4fed-ae4b-08952f4241ec.3582d9695a9dd21afa17630a94680e3c8b126d09.zh-cn.xlf)
+* Handoff Datetime: 2016-01-25 04:01:35
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='04400b534cda6bca1d6f0fc7762f6d789d40c47f2'></a> Source: [e2e\ffff733116a9-d2b7-4004-8f23-79f05e03e5b8.md](https://github.com/OpenLocalizationTest/oltest/blob/e74a80ce41411e17364d9d6491330c01720248cd/e2e/ffff733116a9-d2b7-4004-8f23-79f05e03e5b8.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [4f872ba6-5f5e-4fed-ae4b-08952f4241ec.3582d9695a9dd21afa17630a94680e3c8b126d09.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/edc167c13b7933011032f418179e713bfda96518/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/4f872ba6-5f5e-4fed-ae4b-08952f4241ec.3582d9695a9dd21afa17630a94680e3c8b126d09.zh-cn.xlf)
+* Handoff Datetime: 2016-01-25 04:01:35
+* Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -24,11 +36,5 @@
 
 
 ## Error Details
-##### <a name='bbb5565fff263716a2d034ee79dcc0a7aac2f2cc1handoff_transform_failed'></a> Source: [e2e\cbae07d2-d130-47c4-838c-a3cc4cb73d0d.md](#bbb5565fff263716a2d034ee79dcc0a7aac2f2cc1)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: e2e\cbae07d2-d130-47c4-838c-a3cc4cb73d0d.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: e2e\\cbae07d2-d130-47c4-838c-a3cc4cb73d0d.md transformed failed.","internal_error_retriable":false,"exception_message":"Invalid Xml when parsing: <p>hello <br> world</p>.","exception_type":"System.ArgumentException","stack_trace":"   at Microsoft.Content.Build.Components.MarkdownHtmlBlock..ctor(String value)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.<ParseHtmlQuote>b__c(Match match, List`1 itemList)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.ParseBlockItemCommon(List`1 inputItems, Regex regex, Action`2 action)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.ParseHtmlQuote(List`1 inputItems)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadInternal(String fileContent)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadFromContent(String fileContent)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.MarkdownToXliffCore(Stream markdownStream, Stream xliffStream, Stream sklStream, String contentClass, String locale)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, Stream sourceStream, Stream xliffStream, Stream skeletonStream, String contentClass, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, String markdownFile, String xliffFile, String skeletonFile, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String targetLocale, String xliffVersion, Boolean useJavascriptTransformer) in D:\\Workspace\\OpenLocalization\\OpenLocalization\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 26\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandoffFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, TranslationState translationState, TranslationOptions config, Dictionary`2 filePathInfo) in D:\\Workspace\\OpenLocalization\\OpenLocalization\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 275","extended_information":null}
-
 
 Generated by OpenLocalization.
