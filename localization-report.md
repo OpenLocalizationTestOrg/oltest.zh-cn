@@ -98,8 +98,8 @@
 * Handoff File: [c581042a-d6d5-4f26-980c-3c1b59453863.456f53ebdd5870a037cb78b92a0cb5b7c05fbbe0.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/50aa5c7e101fd088d78ace95bd7a742aacfe42c4/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/c581042a-d6d5-4f26-980c-3c1b59453863.456f53ebdd5870a037cb78b92a0cb5b7c05fbbe0.zh-cn.xlf)
 * Handoff Datetime: 2016-01-25 03:11:48
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [c581042a-d6d5-4f26-980c-3c1b59453863.456f53ebdd5870a037cb78b92a0cb5b7c05fbbe0.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/26b123ac357cec9f9e808baa7c0421efb65b74df/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/archive/c581042a-d6d5-4f26-980c-3c1b59453863.456f53ebdd5870a037cb78b92a0cb5b7c05fbbe0.zh-cn.xlf)
+* Archive Datetime: 2016-01-25 03:13:26
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [e2e\c581042a-d6d5-4f26-980c-3c1b59453863.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/6511e9776fae83d47b5c48f8491d88cb96a5fea9/e2e/c581042a-d6d5-4f26-980c-3c1b59453863.md)
