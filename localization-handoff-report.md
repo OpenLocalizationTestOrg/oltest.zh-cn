@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\a5d079c2-1396-4f01-82f7-80769c44f640.md](https://github.com/OpenLocalizationTest/oltest/blob/ac6b5058b0624da74a408b14281607d273e797d4/e2e/a5d079c2-1396-4f01-82f7-80769c44f640.md) | HandedOffSuccess | [Details](#e495d6cbd6e12d9fe203cfa9e1adcae17da9d3964)
+ [e2e\a5d079c2-1396-4f01-82f7-80769c44f640.md](https://github.com/OpenLocalizationTest/oltest/blob/fe875b291df0650878992d222bdcbea4ca0cef45/e2e/a5d079c2-1396-4f01-82f7-80769c44f640.md) | HandedOffSuccess | [Details](#16d5142f295238a18fe2e84f0b5929da2a9116094)
 
 ## Item Details
-##### <a name='e495d6cbd6e12d9fe203cfa9e1adcae17da9d3964'></a> Source: [e2e\a5d079c2-1396-4f01-82f7-80769c44f640.md](https://github.com/OpenLocalizationTest/oltest/blob/ac6b5058b0624da74a408b14281607d273e797d4/e2e/a5d079c2-1396-4f01-82f7-80769c44f640.md)
+##### <a name='16d5142f295238a18fe2e84f0b5929da2a9116094'></a> Source: [e2e\a5d079c2-1396-4f01-82f7-80769c44f640.md](https://github.com/OpenLocalizationTest/oltest/blob/fe875b291df0650878992d222bdcbea4ca0cef45/e2e/a5d079c2-1396-4f01-82f7-80769c44f640.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [a5d079c2-1396-4f01-82f7-80769c44f640.d99f3028deb065a2bc07474fd2c3b3d2b380953e.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/e5e68493d7aed8cde8285dbc92afcd8645ad28ca/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/a5d079c2-1396-4f01-82f7-80769c44f640.d99f3028deb065a2bc07474fd2c3b3d2b380953e.zh-cn.xlf)
-* Handoff Datetime: 2016-01-25 03:15:47
+* Handoff File: [a5d079c2-1396-4f01-82f7-80769c44f640.d99f3028deb065a2bc07474fd2c3b3d2b380953e.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/34b289b06f96cfd5dad03e058a757c80b9ff9a57/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/a5d079c2-1396-4f01-82f7-80769c44f640.d99f3028deb065a2bc07474fd2c3b3d2b380953e.zh-cn.xlf)
+* Handoff Datetime: 2016-01-25 03:16:28
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
