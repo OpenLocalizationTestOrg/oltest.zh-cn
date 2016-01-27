@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "b379fa2c3c5a3117a553cdd1e50db37e45f18cc7",
+  "LastProcessedCommit": "00b018a60bf10950d7b78faa5eeb9a3863907515",
   "LastTranslatedCommit": null,
   "Items": {
     "d75bc58bd6092f4fed234f138b51663be8107ee4": {
@@ -183,7 +183,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-01-27T08:19:30.791471Z",
+      "HandoffDateTime": "2016-01-27T08:21:27.1630623Z",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
         "internal_error_message": "Handoff source file: e2e\\fc9bd0dc-745f-45f5-8096-bf9b461f5a24.md transformed failed.",
@@ -193,7 +193,7 @@
         "stack_trace": "   at Microsoft.Content.Build.Components.MarkdownHtmlBlock..ctor(String value)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.<ParseHtmlQuote>b__c(Match match, List`1 itemList)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.ParseBlockItemCommon(List`1 inputItems, Regex regex, Action`2 action)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.ParseHtmlQuote(List`1 inputItems)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadInternal(String fileContent)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadFromContent(String fileContent)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.MarkdownToXliffCore(Stream markdownStream, Stream xliffStream, Stream sklStream, String contentClass, String locale)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, Stream sourceStream, Stream xliffStream, Stream skeletonStream, String contentClass, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, String markdownFile, String xliffFile, String skeletonFile, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String targetLocale, String xliffVersion, Boolean useJavascriptTransformer) in E:\\VSC\\OL\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 26\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandoffFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, TranslationState translationState, TranslationOptions config, Dictionary`2 filePathInfo) in E:\\VSC\\OL\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 275",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
