@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "c1542705e97124db1513f1ae75325f5144694d1f",
-  "LastTranslatedCommit": "0be279ba6562e0a01060bd3550ee96fc7cf037d7",
+  "LastTranslatedCommit": "1fc0dc77965c879bca2f1efb6c25b5e50ab1eac5",
   "Items": {
     "60c40d6b4202098e8d7df741f593ee6dfac708ef": {
       "FileHash": "60c40d6b4202098e8d7df741f593ee6dfac708ef",
@@ -264,9 +264,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-01-27T08:12:26.3245745Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: byvrtorh.hq2 is different with handoff file name: c9910c7c-958c-4948-9192-5642e959ce30.45d9d1da6d21e09f117284ba8b4c5df968bccc1c.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: byvrtorh.hq2 is different with handoff file name: c9910c7c-958c-4948-9192-5642e959ce30.45d9d1da6d21e09f117284ba8b4c5df968bccc1c.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
