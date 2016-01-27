@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\2f48f729-5dd0-4636-a715-fa045eb9a4ba.md](https://github.com/OpenLocalizationTest/oltest/blob/81739becc59d5c947b095adcd491de641cb6d781/e2e/2f48f729-5dd0-4636-a715-fa045eb9a4ba.md) | HandedOffSuccess | [Details](#9e964729d031210168482fbe569aaa31364a69761)
+ [e2e\2f48f729-5dd0-4636-a715-fa045eb9a4ba.md](https://github.com/OpenLocalizationTest/oltest/blob/ca873fb1a98aca2f2f70c8af338dcf548c67d79e/e2e/2f48f729-5dd0-4636-a715-fa045eb9a4ba.md) | HandedOffSuccess | [Details](#bf96aa86a6ae0f7e37642777f7378644bf62ec811)
 
 ## Item Details
-##### <a name='9e964729d031210168482fbe569aaa31364a69761'></a> Source: [e2e\2f48f729-5dd0-4636-a715-fa045eb9a4ba.md](https://github.com/OpenLocalizationTest/oltest/blob/81739becc59d5c947b095adcd491de641cb6d781/e2e/2f48f729-5dd0-4636-a715-fa045eb9a4ba.md)
+##### <a name='bf96aa86a6ae0f7e37642777f7378644bf62ec811'></a> Source: [e2e\2f48f729-5dd0-4636-a715-fa045eb9a4ba.md](https://github.com/OpenLocalizationTest/oltest/blob/ca873fb1a98aca2f2f70c8af338dcf548c67d79e/e2e/2f48f729-5dd0-4636-a715-fa045eb9a4ba.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [2f48f729-5dd0-4636-a715-fa045eb9a4ba.3b41ba508a47a6cac67718a70e65a1174eb57093.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/b9500d2c5bde4f4b1abad19cb7bce895ca971a85/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/tianzh/2f48f729-5dd0-4636-a715-fa045eb9a4ba.3b41ba508a47a6cac67718a70e65a1174eb57093.zh-cn.xlf)
-* Handoff Datetime: 2016-01-27 08:17:17
+* Handoff File: [2f48f729-5dd0-4636-a715-fa045eb9a4ba.3b41ba508a47a6cac67718a70e65a1174eb57093.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/da690864ee4c9498a1ad7916e238f5b6d4b210cb/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/tianzh/2f48f729-5dd0-4636-a715-fa045eb9a4ba.3b41ba508a47a6cac67718a70e65a1174eb57093.zh-cn.xlf)
+* Handoff Datetime: 2016-01-27 08:17:54
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
