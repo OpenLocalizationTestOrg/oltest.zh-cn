@@ -88,8 +88,8 @@
 * Handoff File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/16a291f0e64d4dcc27577d91cf96df62a4779888/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf)
 * Handoff Datetime: 2016-02-01 07:05:43
 * Handoff Reason: Include
-* Archive File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/e26f0bb5816186c57eddbd052828aea3afbfc73d/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/archive/Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf)
-* Archive Datetime: 2016-02-01 07:12:43
+* Archive File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/3ab924dd13cc4df53b7b733d2667a6c9038dd014/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/archive/Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf)
+* Archive Datetime: 2016-02-01 09:11:20
 * Handback File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/06dba2df2e2eb2b371299de18336731207efc15b/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf)
 * Handback Datetime: 2016-02-01 08:16:58
 * [Back to Top](#report-top)
