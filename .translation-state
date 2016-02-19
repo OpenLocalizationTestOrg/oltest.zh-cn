@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "83f6dbcb5f4d37cc650f7844290eeb104b2d5b0c",
+  "LastProcessedCommit": "76b87b023479a9cd367c0390b11fcbe06ab56eaa",
   "LastTranslatedCommit": "e90f9d5f500b5cdfb41138847b002b3cb4c280e0",
   "Items": {
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
@@ -213,6 +213,41 @@
       "HandoffDateTime": "2016-02-19T08:20:19.3227188Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "4d648dc69d20ece48fe1364742cddbef46dcbe72": {
+      "FileHash": "4d648dc69d20ece48fe1364742cddbef46dcbe72",
+      "SourceFileCommit": "76b87b023479a9cd367c0390b11fcbe06ab56eaa",
+      "SourceFilePath": "e2e\\generate-warning&error.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\generate-warning&error.md"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "2016-02-19T10:10:28.2751064Z",
+      "HandoffException": {
+        "internal_error_code": "handoff_transform_failed",
+        "internal_error_message": "Handoff source file: e2e\\generate-warning&error.md transformed failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Invalid Xml when parsing: <p>error<br>occur</p>.",
+        "exception_type": "System.ArgumentException",
+        "stack_trace": "   at Microsoft.Content.Build.Components.MarkdownHtmlBlock..ctor(String value)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.<ParseHtmlQuote>b__c(Match match, List`1 itemList)\r\n   at Microsoft.Content.Build.Components.MarkdownBlockParser.ParseBlockItemCommon(List`1 inputItems, Regex regex, Action`2 action)\r\n   at Microsoft.Content.Build.Components.MarkdownFile.LoadInternal(String fileContent)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.MarkdownToXliffCore(Stream markdownStream, Stream xliffStream, Stream sklStream, String contentClass, String locale)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, Stream sourceStream, Stream xliffStream, Stream skeletonStream, String contentClass, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, String markdownFile, String xliffFile, String skeletonFile, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String targetLocale, String xliffVersion, Boolean useJavascriptTransformer) in C:\\code\\OpenLocalization\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 26\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandoffFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, TranslationState translationState, TranslationOptions config, Dictionary`2 filePathInfo) in C:\\code\\OpenLocalization\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 293",
+        "extended_information": null
+      },
+      "HandoffFailureTimes": 1,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
