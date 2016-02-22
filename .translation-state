@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "76b87b023479a9cd367c0390b11fcbe06ab56eaa",
-  "LastTranslatedCommit": "2e16c1f7ee69c4c1612473e30922bf51f5fd7129",
+  "LastTranslatedCommit": "7821325f4de29d6b5c95af1146e6bc921486d7b4",
   "Items": {
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
       "FileHash": "e95ba46a6944d097bac52cb8257a64c4e422238b",
@@ -161,7 +161,7 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "2016-02-22T08:37:27.7054769Z",
+      "HandbackDateTime": "2016-02-22T08:47:41.3526507Z",
       "HandbackException": {
         "internal_error_code": "handback_validate_file_name_invalide",
         "internal_error_message": "Handback file name:  osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.de-de is different with handoff file name: workerroletest.dc40fb5e16870e53471bb0020c81ccf8829300ba.zh-cn.",
@@ -171,7 +171,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 2,
+      "HandbackFailureTimes": 3,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
