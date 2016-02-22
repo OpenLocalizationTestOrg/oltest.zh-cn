@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/1e99432fd1f0884901f08dfa3a9ae97298c0aa55/e2e/Ping.md) | InSyncHandedBackSuccess | [Details](#a40dc2c6e2d3758b62295daca2e7f1264a8961e53)
 
 ## Item Details
-##### <a name='a40dc2c6e2d3758b62295daca2e7f1264a8961e53'></a> Source: [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/1e99432fd1f0884901f08dfa3a9ae97298c0aa55/e2e/Ping.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [e2e\Ping.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/50a0e643c81ef3854fe8eb8c53cc9b5503ba9683/e2e/Ping.md)
-* Handoff File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/6aaa630cb3a11a1b5d15e14543511cf30ccf82cf/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf)
-* Handoff Datetime: 2016-02-22 14:49:33
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/b77df399ee15485a31dd1fa51ab7f7482bfd3415/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf)
-* Handback Datetime: 2016-02-22 14:58:54
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
