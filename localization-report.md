@@ -99,7 +99,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [e2e\Ping.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/e90f9d5f500b5cdfb41138847b002b3cb4c280e0/e2e/Ping.md)
 * Current Handback File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/06dba2df2e2eb2b371299de18336731207efc15b/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf)
-* Current Handback Datetime: 2016-02-22 08:47:41
+* Current Handback Datetime: 2016-02-22 08:57:49
 * [Back to Top](#report-top)
 
 ##### <a name='e95ba46a6944d097bac52cb8257a64c4e422238b4'></a> Source: [e2e\test-scenario-1.md](https://github.com/OpenLocalizationTest/oltest/blob/a5287759ee19d999486c30f70b7686d01ea0d695/e2e/test-scenario-1.md)
