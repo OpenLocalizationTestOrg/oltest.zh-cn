@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "1e99432fd1f0884901f08dfa3a9ae97298c0aa55",
-  "LastTranslatedCommit": "16a7d006e77861ea566a1dd90e206a3392b4785b",
+  "LastTranslatedCommit": "50a0e643c81ef3854fe8eb8c53cc9b5503ba9683",
   "Items": {
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
       "FileHash": "e95ba46a6944d097bac52cb8257a64c4e422238b",
@@ -285,14 +285,14 @@
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "50a0e643c81ef3854fe8eb8c53cc9b5503ba9683",
+      "TargetFilePath": "e2e\\Ping.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\oltest.zh-cn\\master\\Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf",
+      "HandbackFileCommit": "b77df399ee15485a31dd1fa51ab7f7482bfd3415",
+      "HandbackDateTime": "2016-02-22T14:58:54.2919444Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "2016-02-22T14:58:54.2919444Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
