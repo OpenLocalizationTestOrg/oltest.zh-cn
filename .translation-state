@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "76b87b023479a9cd367c0390b11fcbe06ab56eaa",
-  "LastTranslatedCommit": "316c3f9ce39f398638fd501c4a4b6d2d0289aea0",
+  "LastTranslatedCommit": "2e16c1f7ee69c4c1612473e30922bf51f5fd7129",
   "Items": {
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
       "FileHash": "e95ba46a6944d097bac52cb8257a64c4e422238b",
@@ -197,7 +197,7 @@
       "TargetFilePath": "e2e\\Ping.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\oltest.zh-cn\\master\\Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf",
       "HandbackFileCommit": "06dba2df2e2eb2b371299de18336731207efc15b",
-      "HandbackDateTime": "2016-02-22T08:37:26.982704Z",
+      "HandbackDateTime": "2016-02-22T08:47:41.0073365Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -207,7 +207,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-02-01T08:16:58.1112141Z",
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\master\\archive\\Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf",
       "ArchiveFileCommit": "3ab924dd13cc4df53b7b733d2667a6c9038dd014",
