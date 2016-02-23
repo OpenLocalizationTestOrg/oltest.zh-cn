@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "122b8455a2680e5affa208fe2693f537af04c042",
-  "LastTranslatedCommit": "ee5034b5ab1e52ff1ddd0dbcf7e3ad6f4f324642",
+  "LastTranslatedCommit": "453e1941c2c9806eda5f4172ae6620bef25a880b",
   "Items": {
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
       "FileHash": "e95ba46a6944d097bac52cb8257a64c4e422238b",
@@ -401,7 +401,7 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "2016-02-23T05:34:31.1487414Z",
+      "HandbackDateTime": "2016-02-23T05:44:44.3801497Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type ht-test is not match with handoff type mt-test.",
@@ -411,7 +411,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
