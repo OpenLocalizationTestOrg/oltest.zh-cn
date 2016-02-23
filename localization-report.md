@@ -47,12 +47,12 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/94eca17e3d07886b349f968042ef746450044aad/.localization-config) | Ignored | [Details](#52dc4d74739eeef67c7f210f20ec4f806670f3f90)
- [e2e\test1.md](https://github.com/OpenLocalizationTest/oltest/blob/94eca17e3d07886b349f968042ef746450044aad/e2e/test1.md) | Ignored | [Details](#b6b1b5f30cfd772c0da0b43cb0b12d757e0ff5475)
- [README.md](https://github.com/OpenLocalizationTest/oltest/blob/94eca17e3d07886b349f968042ef746450044aad/README.md) | Ignored | [Details](#df59b048e07151e27715bf8782a1aefa6d87f03111)
+ [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/768a7aa785f3119529b58630690d8478285a329e/.localization-config) | Ignored | [Details](#18d85f90a52a23e64de2339a5411c5f091b47a9e0)
+ [e2e\test1.md](https://github.com/OpenLocalizationTest/oltest/blob/768a7aa785f3119529b58630690d8478285a329e/e2e/test1.md) | Ignored | [Details](#b6b1b5f30cfd772c0da0b43cb0b12d757e0ff5475)
+ [README.md](https://github.com/OpenLocalizationTest/oltest/blob/768a7aa785f3119529b58630690d8478285a329e/README.md) | Ignored | [Details](#df59b048e07151e27715bf8782a1aefa6d87f03111)
 
 ## Item Details
-##### <a name='52dc4d74739eeef67c7f210f20ec4f806670f3f90'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/94eca17e3d07886b349f968042ef746450044aad/.localization-config)
+##### <a name='18d85f90a52a23e64de2339a5411c5f091b47a9e0'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/768a7aa785f3119529b58630690d8478285a329e/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -100,7 +100,7 @@
 * Handback Datetime: 2016-02-22 14:58:54
 * [Back to Top](#report-top)
 
-##### <a name='b6b1b5f30cfd772c0da0b43cb0b12d757e0ff5475'></a> Source: [e2e\test1.md](https://github.com/OpenLocalizationTest/oltest/blob/94eca17e3d07886b349f968042ef746450044aad/e2e/test1.md)
+##### <a name='b6b1b5f30cfd772c0da0b43cb0b12d757e0ff5475'></a> Source: [e2e\test1.md](https://github.com/OpenLocalizationTest/oltest/blob/768a7aa785f3119529b58630690d8478285a329e/e2e/test1.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -188,7 +188,7 @@
 * Handback Error: [handback_validate_file_name_invalide](#0230be5b6a99a72281fb408287844784080fb86410handback_validate_file_name_invalide)
 * [Back to Top](#report-top)
 
-##### <a name='df59b048e07151e27715bf8782a1aefa6d87f03111'></a> Source: [README.md](https://github.com/OpenLocalizationTest/oltest/blob/94eca17e3d07886b349f968042ef746450044aad/README.md)
+##### <a name='df59b048e07151e27715bf8782a1aefa6d87f03111'></a> Source: [README.md](https://github.com/OpenLocalizationTest/oltest/blob/768a7aa785f3119529b58630690d8478285a329e/README.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
