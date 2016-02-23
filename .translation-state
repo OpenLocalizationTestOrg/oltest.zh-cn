@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "94eca17e3d07886b349f968042ef746450044aad",
-  "LastTranslatedCommit": "2968177964f1e83a055681fd3b8a5a76bf6eb9f7",
+  "LastTranslatedCommit": "17106eeb5a0c7c5ef6eadaae726e2908318e04ac",
   "Items": {
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
       "FileHash": "e95ba46a6944d097bac52cb8257a64c4e422238b",
@@ -397,22 +397,14 @@
       "HandoffPriority": "mt-test",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "2016-02-23T06:24:30.9782021Z",
-      "HandbackException": {
-        "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
-        "internal_error_message": "The handback type ht-test is not match with handoff type mt-test.",
-        "internal_error_retriable": false,
-        "exception_message": "The handback type ht-test is not match with handoff type mt-test.",
-        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
-        "stack_trace": null,
-        "extended_information": null
-      },
-      "HandbackFailureTimes": 1,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "17106eeb5a0c7c5ef6eadaae726e2908318e04ac",
+      "TargetFilePath": "e2e\\test1\\test1.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\oltest.zh-cn\\master\\mt-test\\test1.a04caccb4c9d67200f1be887cc6268d030f9cc12.zh-cn.xlf",
+      "HandbackFileCommit": "b0c3aa5cfc8a9d3165bcd88bb7a30b43756718f9",
+      "HandbackDateTime": "2016-02-23T12:15:10.8709703Z",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "2016-02-23T12:15:10.8709703Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
