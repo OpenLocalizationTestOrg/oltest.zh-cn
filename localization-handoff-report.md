@@ -1,40 +1,24 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\generate-warning&error.md](https://github.com/OpenLocalizationTest/oltest/blob/76b87b023479a9cd367c0390b11fcbe06ab56eaa/e2e/generate-warning&error.md) | HandedOffSuccess | [Details](#4d648dc69d20ece48fe1364742cddbef46dcbe721)
- [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/1e99432fd1f0884901f08dfa3a9ae97298c0aa55/e2e/Ping.md) | OutofSyncHandedBackSuccess | [Details](#a40dc2c6e2d3758b62295daca2e7f1264a8961e53)
+ [e2e\test1.md](https://github.com/OpenLocalizationTest/oltest/blob/25e0cae0cf0ea47cfb917473c50ec98c5ab16978/e2e/test1.md) | HandedOffSuccess | [Details](#e5fa44f2b31c1fb553b6021e7360d07d5d91ff5e5)
 
 ## Item Details
-##### <a name='4d648dc69d20ece48fe1364742cddbef46dcbe721'></a> Source: [e2e\generate-warning&error.md](https://github.com/OpenLocalizationTest/oltest/blob/76b87b023479a9cd367c0390b11fcbe06ab56eaa/e2e/generate-warning&error.md)
+##### <a name='e5fa44f2b31c1fb553b6021e7360d07d5d91ff5e5'></a> Source: [e2e\test1.md](https://github.com/OpenLocalizationTest/oltest/blob/25e0cae0cf0ea47cfb917473c50ec98c5ab16978/e2e/test1.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [generate-warning&error.2eda3fc349b1c4e695c8f4aec97de83671e3c92e.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/6aaa630cb3a11a1b5d15e14543511cf30ccf82cf/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/generate-warning&error.2eda3fc349b1c4e695c8f4aec97de83671e3c92e.zh-cn.xlf)
-* Handoff Datetime: 2016-02-22 14:49:33
+* Handoff File: [test1.29bc21b3f55532cdefcb885ffedfe40bf4096522.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/a34b39db948d6167f0768068cb26e19ed8ecc293/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/test1.29bc21b3f55532cdefcb885ffedfe40bf4096522.zh-cn.xlf)
+* Handoff Datetime: 2016-02-23 03:44:54
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='a40dc2c6e2d3758b62295daca2e7f1264a8961e53'></a> Source: [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/1e99432fd1f0884901f08dfa3a9ae97298c0aa55/e2e/Ping.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
-* Handoff File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/6aaa630cb3a11a1b5d15e14543511cf30ccf82cf/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf)
-* Handoff Datetime: 2016-02-22 14:49:33
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [e2e\Ping.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/e90f9d5f500b5cdfb41138847b002b3cb4c280e0/e2e/Ping.md)
-* Current Handback File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/06dba2df2e2eb2b371299de18336731207efc15b/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf)
-* Current Handback Datetime: 2016-02-22 08:57:49
 * [Back to Top](#report-top)
 
 
