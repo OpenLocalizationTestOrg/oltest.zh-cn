@@ -1,4 +1,7 @@
 {
+  "66b2c5ee1e786d296e6a7755312e2385be79fec9": [
+    "e2e\\test1\\test1.md"
+  ],
   "0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc39": [
     "e2e\\test1\\test1.md"
   ],
@@ -7,6 +10,9 @@
   ],
   "f0391904a77efece1359efeca01b5a9a89eeb8c8": [
     "e2e\\test2\\test2.md"
+  ],
+  "d08207277e33d542ce0dd971bf1ab4e5e5ea69cb": [
+    "e2e\\test1\\keep-the-ui-thread-responsive.md"
   ],
   "3ec43baf1d1c8bef03a22ab0b9f609909c78b48f": [
     "e2e\\test1\\keep-the-ui-thread-responsive.md"
