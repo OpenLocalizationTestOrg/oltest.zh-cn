@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/b38144c12be6f4964ad044fec9acbe63410d9580/e2e/Ping.md) | OutofSyncHandedBackSuccess | [Details](#a5ae5da4fe6168f678238371e7254d930f12fe0c3)
- [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/b38144c12be6f4964ad044fec9acbe63410d9580/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md) | HandedOffFailed | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc396)
+ [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/a9e9308f9d782d9b3a004c53e895c25c866f4484/e2e/Ping.md) | OutofSyncHandedBackSuccess | [Details](#727be8c1708119fe5e48ae3ff5a0e7e901103c7d3)
+ [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/a9e9308f9d782d9b3a004c53e895c25c866f4484/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md) | HandedOffFailed | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc396)
 
 ## Item Details
-##### <a name='a5ae5da4fe6168f678238371e7254d930f12fe0c3'></a> Source: [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/b38144c12be6f4964ad044fec9acbe63410d9580/e2e/Ping.md)
+##### <a name='727be8c1708119fe5e48ae3ff5a0e7e901103c7d3'></a> Source: [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/a9e9308f9d782d9b3a004c53e895c25c866f4484/e2e/Ping.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/d2ebcd992e55c595c22d9b3a1a5ec4e2b6f21f9f/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf)
-* Handoff Datetime: 2016-02-24 12:34:57
+* Handoff File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/c52341629077b283a540aea34a1f91b0c0194836/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf)
+* Handoff Datetime: 2016-02-25 08:55:51
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -25,7 +25,7 @@
 * Current Handback Datetime: 2016-02-22 14:58:54
 * [Back to Top](#report-top)
 
-##### <a name='0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc396'></a> Source: [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/b38144c12be6f4964ad044fec9acbe63410d9580/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md)
+##### <a name='0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc396'></a> Source: [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/a9e9308f9d782d9b3a004c53e895c25c866f4484/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
