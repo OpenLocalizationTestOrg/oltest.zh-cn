@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 19
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 15
+[ Handoff Success Files ](#handoff-success-list)| 14
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
+[ In Sync Handback Files ](#insync-handback-success-list)| 1
 [ Ignored Files ](#ignored-list)| 4
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -20,7 +20,6 @@
  ----------- | ------ | ------- 
  [e2e\generate-warning&error.md](https://github.com/OpenLocalizationTest/oltest/blob/fd45c556033699626454bad47731c7edbb92be0f/e2e/generate-warning&error.md) | HandedOffSuccess | [Details](#4d648dc69d20ece48fe1364742cddbef46dcbe721)
  [e2e\github.png](https://github.com/OpenLocalizationTest/oltest/blob/fd45c556033699626454bad47731c7edbb92be0f/e2e/github.png) | HandedOffSuccess | [Details](#c842d8537f73ae67d662c3d33c5d93a0b069dada2)
- [e2e\osmond-test-1.md](https://github.com/OpenLocalizationTest/oltest/blob/fd45c556033699626454bad47731c7edbb92be0f/e2e/osmond-test-1.md) | HandedOffSuccess | [Details](#47609b0422629832c77370a4324229c7153ccdd73)
  [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/fd45c556033699626454bad47731c7edbb92be0f/e2e/Ping.md) | HandedOffSuccess | [Details](#727be8c1708119fe5e48ae3ff5a0e7e901103c7d4)
  [e2e\test1.md](https://github.com/OpenLocalizationTest/oltest/blob/fd45c556033699626454bad47731c7edbb92be0f/e2e/test1.md) | HandedOffSuccess | [Details](#b6b1b5f30cfd772c0da0b43cb0b12d757e0ff5476)
  [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/fd45c556033699626454bad47731c7edbb92be0f/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md) | HandedOffSuccess | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc397)
@@ -43,6 +42,9 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\osmond-test-1.md](https://github.com/OpenLocalizationTest/oltest/blob/fd45c556033699626454bad47731c7edbb92be0f/e2e/osmond-test-1.md) | InSyncHandedBackSuccess | [Details](#47609b0422629832c77370a4324229c7153ccdd73)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -91,15 +93,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='47609b0422629832c77370a4324229c7153ccdd73'></a> Source: [e2e\osmond-test-1.md](https://github.com/OpenLocalizationTest/oltest/blob/fd45c556033699626454bad47731c7edbb92be0f/e2e/osmond-test-1.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\osmond-test-1.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/da351b217d4ec48ef0f9a7b89b0d4f9b30c93304/e2e/osmond-test-1.md)
 * Handoff File: [osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff.zh-cn/blob/a00c352e0c40cfe7dd7c2573f52a47482fde5861/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/separatehandoff/osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.zh-cn.xlf)
 * Handoff Datetime: 2016-03-01 08:11:12
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/ff27d98698a40a907aa8fe90e903e0d0862345f9/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/separatehandoff/osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.zh-cn.xlf)
+* Handback Datetime: 2016-03-01 08:28:56
 * [Back to Top](#report-top)
 
 ##### <a name='727be8c1708119fe5e48ae3ff5a0e7e901103c7d4'></a> Source: [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/fd45c556033699626454bad47731c7edbb92be0f/e2e/Ping.md)

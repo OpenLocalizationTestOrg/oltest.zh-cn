@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\osmond-test-1.md](https://github.com/OpenLocalizationTest/oltest/blob/fd45c556033699626454bad47731c7edbb92be0f/e2e/osmond-test-1.md) | InSyncHandedBackSuccess | [Details](#47609b0422629832c77370a4324229c7153ccdd73)
 
 ## Item Details
+##### <a name='47609b0422629832c77370a4324229c7153ccdd73'></a> Source: [e2e\osmond-test-1.md](https://github.com/OpenLocalizationTest/oltest/blob/fd45c556033699626454bad47731c7edbb92be0f/e2e/osmond-test-1.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\osmond-test-1.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/da351b217d4ec48ef0f9a7b89b0d4f9b30c93304/e2e/osmond-test-1.md)
+* Handoff File: [osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff.zh-cn/blob/a00c352e0c40cfe7dd7c2573f52a47482fde5861/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/separatehandoff/osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.zh-cn.xlf)
+* Handoff Datetime: 2016-03-01 08:11:12
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/ff27d98698a40a907aa8fe90e903e0d0862345f9/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/separatehandoff/osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.zh-cn.xlf)
+* Handback Datetime: 2016-03-01 08:28:56
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

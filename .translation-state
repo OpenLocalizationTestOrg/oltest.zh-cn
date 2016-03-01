@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "fd45c556033699626454bad47731c7edbb92be0f",
-  "LastTranslatedCommit": null,
+  "LastTranslatedCommit": "da351b217d4ec48ef0f9a7b89b0d4f9b30c93304",
   "Items": {
     "4d648dc69d20ece48fe1364742cddbef46dcbe72": {
       "FileHash": "4d648dc69d20ece48fe1364742cddbef46dcbe72",
@@ -45,14 +45,14 @@
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "da351b217d4ec48ef0f9a7b89b0d4f9b30c93304",
+      "TargetFilePath": "e2e\\osmond-test-1.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\oltest.zh-cn\\separatehandoff\\osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.zh-cn.xlf",
+      "HandbackFileCommit": "ff27d98698a40a907aa8fe90e903e0d0862345f9",
+      "HandbackDateTime": "2016-03-01T08:28:56.5495127Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "2016-03-01T08:28:56.5495127Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
