@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md](https://github.com/OpenLocalizationTest/oltest/blob/61d2889f6646aac2e43634984c3da76c97ceda44/e2e/dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md) | HandedOffSuccess | [Details](#0283ad49e9cc6852cf790789d6637798dc9b3dea1)
 
 ## Item Details
+##### <a name='0283ad49e9cc6852cf790789d6637798dc9b3dea1'></a> Source: [e2e\dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md](https://github.com/OpenLocalizationTest/oltest/blob/61d2889f6646aac2e43634984c3da76c97ceda44/e2e/dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [dff6ead6-54db-498d-bd8c-d7d62aecbe3e.5dae3c21ad6bbca523b434c1ce15e208ac6e6f06.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/1e499c099397bc569e29aefabbb592a96b5ba3cd/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/ht/dff6ead6-54db-498d-bd8c-d7d62aecbe3e.5dae3c21ad6bbca523b434c1ce15e208ac6e6f06.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 11:10:09
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
