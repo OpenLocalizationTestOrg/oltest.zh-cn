@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\01eab44c-6748-47c3-88fc-beb8c39039f7.md](https://github.com/OpenLocalizationTest/oltest/blob/96b80a1cb847698d077bb7d2822eba99d888aad6/e2e/01eab44c-6748-47c3-88fc-beb8c39039f7.md) | HandedOffSuccess | [Details](#d5540d58499c4b1097a6c5f978719893dfae0eb92)
+ [e2e\062f0c8c-44d4-490e-b968-e13ec1f1bf98.md](https://github.com/OpenLocalizationTest/oltest/blob/b7cae378a3be0f9241964036a95c9623c94fbb80/e2e/062f0c8c-44d4-490e-b968-e13ec1f1bf98.md) | HandedOffSuccess | [Details](#3aa0f1464b45e0c494c2e6923716d34adb5c33953)
 
 ## Item Details
-##### <a name='d5540d58499c4b1097a6c5f978719893dfae0eb92'></a> Source: [e2e\01eab44c-6748-47c3-88fc-beb8c39039f7.md](https://github.com/OpenLocalizationTest/oltest/blob/96b80a1cb847698d077bb7d2822eba99d888aad6/e2e/01eab44c-6748-47c3-88fc-beb8c39039f7.md)
+##### <a name='3aa0f1464b45e0c494c2e6923716d34adb5c33953'></a> Source: [e2e\062f0c8c-44d4-490e-b968-e13ec1f1bf98.md](https://github.com/OpenLocalizationTest/oltest/blob/b7cae378a3be0f9241964036a95c9623c94fbb80/e2e/062f0c8c-44d4-490e-b968-e13ec1f1bf98.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [01eab44c-6748-47c3-88fc-beb8c39039f7.216616e88f5bf559688636269e9f35a4840135a7.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/8adccbe6ed3ce774e6bac042e057bf2ad6396335/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/ht/01eab44c-6748-47c3-88fc-beb8c39039f7.216616e88f5bf559688636269e9f35a4840135a7.zh-cn.xlf)
-* Handoff Datetime: 2016-03-04 10:47:50
+* Handoff File: [062f0c8c-44d4-490e-b968-e13ec1f1bf98.2f1b868441c122be171be2557e0fbfb9f648bbf5.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/a6f7fa45fe05f4515cd619a449c4e8a5755a6cb4/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/ht/062f0c8c-44d4-490e-b968-e13ec1f1bf98.2f1b868441c122be171be2557e0fbfb9f648bbf5.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 10:52:16
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
