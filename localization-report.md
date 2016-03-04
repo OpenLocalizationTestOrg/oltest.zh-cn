@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 9
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 3
+[ Handoff Success Files ](#handoff-success-list)| 2
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 3
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
-[ In Sync Handback Files ](#insync-handback-success-list)| 1
+[ In Sync Handback Files ](#insync-handback-success-list)| 2
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -20,7 +20,6 @@
  ----------- | ------ | ------- 
  [e2e\0034157f-dd4d-417a-9df6-110b159bec4f.md](https://github.com/OpenLocalizationTest/oltest/blob/0a7d79782dc0e4eaac7da25566514f6648f5c4ee/e2e/0034157f-dd4d-417a-9df6-110b159bec4f.md) | HandedOffSuccess | [Details](#eb0e680bdc0e2ed7758f1374ab9a523972fc8cdb1)
  [e2e\27a3f539-08b5-4bbe-9811-281f0ccb21ed.md](https://github.com/OpenLocalizationTest/oltest/blob/e074782d51fb0daf54aa3a76ef3dd7a65de6b9c2/e2e/27a3f539-08b5-4bbe-9811-281f0ccb21ed.md) | HandedOffSuccess | [Details](#d2a05254b7110bff1d6e2131f1a9504e704359f55)
- [e2e\65847a73-ee7e-4e52-8f62-ce062c2a76e1.md](https://github.com/OpenLocalizationTest/oltest/blob/2605c3e47fca9ec5103246aff2d3cf4e21adcdfc/e2e/65847a73-ee7e-4e52-8f62-ce062c2a76e1.md) | HandedOffSuccess | [Details](#4f113def6dc9d7dc73b43f08ef95c9e750d6a90c6)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -42,6 +41,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [e2e\2291a6aa-fa1a-4622-b6e6-71faa470e61f.md](https://github.com/OpenLocalizationTest/oltest/blob/e99ca017d5a0ca51473823ea0db8dd783448713b/e2e/2291a6aa-fa1a-4622-b6e6-71faa470e61f.md) | InSyncHandedBackSuccess | [Details](#4247c30aecf0add105b4b4aa68e3d8613fc45f804)
+ [e2e\65847a73-ee7e-4e52-8f62-ce062c2a76e1.md](https://github.com/OpenLocalizationTest/oltest/blob/2605c3e47fca9ec5103246aff2d3cf4e21adcdfc/e2e/65847a73-ee7e-4e52-8f62-ce062c2a76e1.md) | InSyncHandedBackSuccess | [Details](#4f113def6dc9d7dc73b43f08ef95c9e750d6a90c6)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -125,15 +125,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='4f113def6dc9d7dc73b43f08ef95c9e750d6a90c6'></a> Source: [e2e\65847a73-ee7e-4e52-8f62-ce062c2a76e1.md](https://github.com/OpenLocalizationTest/oltest/blob/2605c3e47fca9ec5103246aff2d3cf4e21adcdfc/e2e/65847a73-ee7e-4e52-8f62-ce062c2a76e1.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\65847a73-ee7e-4e52-8f62-ce062c2a76e1.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/620841cc38d96039254ed278866d87787366fb64/e2e/65847a73-ee7e-4e52-8f62-ce062c2a76e1.md)
 * Handoff File: [65847a73-ee7e-4e52-8f62-ce062c2a76e1.1d1bd48b3f99b1cdf23b475930c96e30bbca2ef3.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/66b3013acc9c416d7ec3b12a07e17bdb2284f56f/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/ht/65847a73-ee7e-4e52-8f62-ce062c2a76e1.1d1bd48b3f99b1cdf23b475930c96e30bbca2ef3.zh-cn.xlf)
 * Handoff Datetime: 2016-03-04 10:21:22
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [65847a73-ee7e-4e52-8f62-ce062c2a76e1.1d1bd48b3f99b1cdf23b475930c96e30bbca2ef3.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/9e62cf6eca60615d345965a354ec0f5f4f015768/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/qimu/ht/65847a73-ee7e-4e52-8f62-ce062c2a76e1.1d1bd48b3f99b1cdf23b475930c96e30bbca2ef3.zh-cn.xlf)
+* Handback Datetime: 2016-03-04 10:22:16
 * [Back to Top](#report-top)
 
 ##### <a name='2d65eb86e590a1556d699fbcf8023d9fc9d8b40e7'></a> Source: [e2e\bea0c538-ddcb-4d77-977d-c7666a7b139c.md](https://github.com/OpenLocalizationTest/oltest/blob/f808b105251aa7a0a36d71b489338eb774aeb18f/e2e/bea0c538-ddcb-4d77-977d-c7666a7b139c.md)
