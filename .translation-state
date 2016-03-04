@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "0a93c757523dfb6d4fc27fe3ba21f5c726cf6e17",
+  "LastProcessedCommit": "59afd9652ef9afca00b8dbebcfc660d677d8bb54",
   "LastTranslatedCommit": "26125f3af262c0bc9db60de90668126fc747cd4a",
   "Items": {
     "ac5610e14e35343352c9459b3e335b10c5a31637": {
@@ -780,6 +780,35 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\qimu\\ht\\0061f551-f573-447e-9fa0-c4403e965861.3bff11b70688e4a43285c2d0aa69fb00981ef098.zh-cn.xlf",
       "HandoffFileCommit": "86b469246b2d1fa8e0400bf69055d451126141d5",
       "HandoffDateTime": "2016-03-04T11:04:11.6286897Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "a80fa9a009198babef9ac73f91d2922e91e9ece1": {
+      "FileHash": "a80fa9a009198babef9ac73f91d2922e91e9ece1",
+      "SourceFileCommit": "59afd9652ef9afca00b8dbebcfc660d677d8bb54",
+      "SourceFilePath": "e2e\\617b5400-e27b-4269-bf2c-0532877aa549.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\617b5400-e27b-4269-bf2c-0532877aa549.md",
+        "e2e\\ffff30bae099-e70f-4860-adae-fa1bd61ee460.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\qimu\\ht\\617b5400-e27b-4269-bf2c-0532877aa549.3485b3f130250f9670cc4c318f4fa47dd7fafe79.zh-cn.xlf",
+      "HandoffFileCommit": "9c7a0a56d8701bf3c3e42688547dfabd78dfbdef",
+      "HandoffDateTime": "2016-03-04T11:06:43.5429175Z",
       "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
