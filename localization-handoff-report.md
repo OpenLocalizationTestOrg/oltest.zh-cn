@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\199a1f31-4b40-43bb-923a-18397fa6ca04.md](https://github.com/OpenLocalizationTest/oltest/blob/cb5143149f701958c0c10bafc27c1c4e8285a71e/e2e/199a1f31-4b40-43bb-923a-18397fa6ca04.md) | HandedOffSuccess | [Details](#0c8a5ad23f51f39404c2a4bd12df247404dfc0111)
- [e2e\e74c1a4c-b419-43a7-8bd7-7f98d9726133.md](https://github.com/OpenLocalizationTest/oltest/blob/cb5143149f701958c0c10bafc27c1c4e8285a71e/e2e/e74c1a4c-b419-43a7-8bd7-7f98d9726133.md) | HandedOffSuccess | [Details](#b14a2f374f8f2744230de7fc91ce5edf98ce60052)
+ [e2e\0034157f-dd4d-417a-9df6-110b159bec4f.md](https://github.com/OpenLocalizationTest/oltest/blob/f808b105251aa7a0a36d71b489338eb774aeb18f/e2e/0034157f-dd4d-417a-9df6-110b159bec4f.md) | HandedOffSuccess | [Details](#b9f47b69adeece4f36054918e502065c8f75c81c1)
+ [e2e\bea0c538-ddcb-4d77-977d-c7666a7b139c.md](https://github.com/OpenLocalizationTest/oltest/blob/f808b105251aa7a0a36d71b489338eb774aeb18f/e2e/bea0c538-ddcb-4d77-977d-c7666a7b139c.md) | HandedOffSuccess | [Details](#2d65eb86e590a1556d699fbcf8023d9fc9d8b40e3)
 
 ## Item Details
-##### <a name='0c8a5ad23f51f39404c2a4bd12df247404dfc0111'></a> Source: [e2e\199a1f31-4b40-43bb-923a-18397fa6ca04.md](https://github.com/OpenLocalizationTest/oltest/blob/cb5143149f701958c0c10bafc27c1c4e8285a71e/e2e/199a1f31-4b40-43bb-923a-18397fa6ca04.md)
+##### <a name='b9f47b69adeece4f36054918e502065c8f75c81c1'></a> Source: [e2e\0034157f-dd4d-417a-9df6-110b159bec4f.md](https://github.com/OpenLocalizationTest/oltest/blob/f808b105251aa7a0a36d71b489338eb774aeb18f/e2e/0034157f-dd4d-417a-9df6-110b159bec4f.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [199a1f31-4b40-43bb-923a-18397fa6ca04.9809858e68fcb9f6dd2bac79ef216efc8fdd31ee.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/099d1bb2d354adf14802c5fb265e340f67b4bd7e/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/ht/199a1f31-4b40-43bb-923a-18397fa6ca04.9809858e68fcb9f6dd2bac79ef216efc8fdd31ee.zh-cn.xlf)
-* Handoff Datetime: 2016-03-04 10:06:41
+* Handoff File: [0034157f-dd4d-417a-9df6-110b159bec4f.e05f1b9a6487db1a122b3f7a99a8da13ba3f092c.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/e02a45df03dd737622128db4589d4834403e911d/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/ht/0034157f-dd4d-417a-9df6-110b159bec4f.e05f1b9a6487db1a122b3f7a99a8da13ba3f092c.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 10:08:44
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22,11 +22,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b14a2f374f8f2744230de7fc91ce5edf98ce60052'></a> Source: [e2e\e74c1a4c-b419-43a7-8bd7-7f98d9726133.md](https://github.com/OpenLocalizationTest/oltest/blob/cb5143149f701958c0c10bafc27c1c4e8285a71e/e2e/e74c1a4c-b419-43a7-8bd7-7f98d9726133.md)
+##### <a name='2d65eb86e590a1556d699fbcf8023d9fc9d8b40e3'></a> Source: [e2e\bea0c538-ddcb-4d77-977d-c7666a7b139c.md](https://github.com/OpenLocalizationTest/oltest/blob/f808b105251aa7a0a36d71b489338eb774aeb18f/e2e/bea0c538-ddcb-4d77-977d-c7666a7b139c.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [e74c1a4c-b419-43a7-8bd7-7f98d9726133.c2bc1a05f8e55b2535db8e200e39f576949ee6dd.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/099d1bb2d354adf14802c5fb265e340f67b4bd7e/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/ht/e74c1a4c-b419-43a7-8bd7-7f98d9726133.c2bc1a05f8e55b2535db8e200e39f576949ee6dd.zh-cn.xlf)
-* Handoff Datetime: 2016-03-04 10:06:41
+* Handoff File: [bea0c538-ddcb-4d77-977d-c7666a7b139c.61e8ee26ecc65f85dadc73a0d3c1f3f6c3ec4f66.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/e02a45df03dd737622128db4589d4834403e911d/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/qimu/ht/bea0c538-ddcb-4d77-977d-c7666a7b139c.61e8ee26ecc65f85dadc73a0d3c1f3f6c3ec4f66.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 10:08:44
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
