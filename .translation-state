@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "051615df16f7cece2794b7768ab5c1a091cb8d4e",
-  "LastTranslatedCommit": "1fb1ee60c6e93c08988447cdc0f739638b922fdf",
+  "LastTranslatedCommit": "26125f3af262c0bc9db60de90668126fc747cd4a",
   "Items": {
     "ac5610e14e35343352c9459b3e335b10c5a31637": {
       "FileHash": "ac5610e14e35343352c9459b3e335b10c5a31637",
@@ -695,9 +695,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-03-04T10:58:52.0892879Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: zwkmalc0.3fc is different with handoff file name: 4f802183-a82b-4d95-9b8b-108bb9309235.6f07da9885d39318fba70abb5f448e7df68c4d3d.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: zwkmalc0.3fc is different with handoff file name: 4f802183-a82b-4d95-9b8b-108bb9309235.6f07da9885d39318fba70abb5f448e7df68c4d3d.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
