@@ -1,30 +1,28 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 3
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\github.png](https://github.com/OpenLocalizationTest/oltest/blob/65a0554ad32f596f492ad82597f248ae9fb2e074/e2e/github.png) | HandedOffSuccess | [Details](#c842d8537f73ae67d662c3d33c5d93a0b069dada5)
- [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/65a0554ad32f596f492ad82597f248ae9fb2e074/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md) | HandedOffFailed | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc3911)
- [e2e\test1\keep-the-ui-thread-responsive.md](https://github.com/OpenLocalizationTest/oltest/blob/65a0554ad32f596f492ad82597f248ae9fb2e074/e2e/test1/keep-the-ui-thread-responsive.md) | HandedOffSuccess | [Details](#3ec43baf1d1c8bef03a22ab0b9f609909c78b48f13)
+ [e2e\test1.md](https://github.com/OpenLocalizationTest/oltest/blob/db15d3d032bbff69e80239df1883af52fcfa9aa7/e2e/test1.md) | HandedOffSuccess | [Details](#296bd5958987b4bbfbc96fbdbc457601b52e943510)
+ [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/db15d3d032bbff69e80239df1883af52fcfa9aa7/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md) | HandedOffFailed | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc3911)
 
 ## Item Details
-##### <a name='c842d8537f73ae67d662c3d33c5d93a0b069dada5'></a> Source: [e2e\github.png](https://github.com/OpenLocalizationTest/oltest/blob/65a0554ad32f596f492ad82597f248ae9fb2e074/e2e/github.png)
+##### <a name='296bd5958987b4bbfbc96fbdbc457601b52e943510'></a> Source: [e2e\test1.md](https://github.com/OpenLocalizationTest/oltest/blob/db15d3d032bbff69e80239df1883af52fcfa9aa7/e2e/test1.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [c842d8537f73ae67d662c3d33c5d93a0b069dada.png](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/db8c7bac5e4ad82c5f0c25d7b3516c5434ce158a/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/c842d8537f73ae67d662c3d33c5d93a0b069dada.png)
-* Handoff Datetime: 2016-03-04 15:48:59
-* Handoff Reason: IsDependency
+* Handoff File: [test1.29bc21b3f55532cdefcb885ffedfe40bf4096522.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/a7d981842e5213c301b6c997ede808a098ce4b23/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/test1.29bc21b3f55532cdefcb885ffedfe40bf4096522.zh-cn.xlf)
+* Handoff Datetime: 2016-03-08 09:26:37
+* Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: e2e\testimage.md
 * [Back to Top](#report-top)
 
-##### <a name='0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc3911'></a> Source: [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/65a0554ad32f596f492ad82597f248ae9fb2e074/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md)
+##### <a name='0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc3911'></a> Source: [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/db15d3d032bbff69e80239df1883af52fcfa9aa7/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
@@ -37,25 +35,13 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3ec43baf1d1c8bef03a22ab0b9f609909c78b48f13'></a> Source: [e2e\test1\keep-the-ui-thread-responsive.md](https://github.com/OpenLocalizationTest/oltest/blob/65a0554ad32f596f492ad82597f248ae9fb2e074/e2e/test1/keep-the-ui-thread-responsive.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [keep-the-ui-thread-responsive.f82130e9fb356ee4bb01059d48bac41876c11bc7.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/db8c7bac5e4ad82c5f0c25d7b3516c5434ce158a/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/keep-the-ui-thread-responsive.f82130e9fb356ee4bb01059d48bac41876c11bc7.zh-cn.xlf)
-* Handoff Datetime: 2016-03-04 15:48:59
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 ##### <a name='0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc3911handoff_transform_failed'></a> Source: [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc3911)
 * Error Code: handoff_transform_failed
 * Error Message: Handoff source file: e2e\test1\test1.md transformed failed.
 * Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: e2e\\test1\\test1.md transformed failed.","internal_error_retriable":false,"exception_message":"Object reference not set to an instance of an object.","exception_type":"System.NullReferenceException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass9_0.<GetHandoffFiles>b__0(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 331","extended_information":null}
+* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: e2e\\test1\\test1.md transformed failed.","internal_error_retriable":false,"exception_message":"Object reference not set to an instance of an object.","exception_type":"System.NullReferenceException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_0.<GetHandoffFiles>b__0(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 344","extended_information":null}
 
 
 Generated by OpenLocalization.
