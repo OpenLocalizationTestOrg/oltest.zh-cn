@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "51d41eb2212ba239e9eabadba8acca3bb472e9b9",
+  "LastProcessedCommit": "1b072c0ba97210d6090c3b5905cea10924234290",
   "LastTranslatedCommit": "2e88bc7f9c1cb20a6f3ccf6b51b4e9798d13b555",
   "Items": {
     "bb4d49230783adea16cdec38feaccee8cfb971da": {
@@ -4630,10 +4630,10 @@
       "FilePathList": [
         "e2e\\f4887f69-d6c9-4d5a-b3ab-b0a3cd2294c0.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\mt\\f4887f69-d6c9-4d5a-b3ab-b0a3cd2294c0.3407f8136fd8682952c311b0942882b340f1c454.zh-cn.xlf",
-      "HandoffFileCommit": "bc4bfb0cbd011d75135626fb8553481f23ca13a8",
-      "HandoffDateTime": "2016-03-10T10:03:16.1757859Z",
-      "HandoffPriority": "mt",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\ht\\f4887f69-d6c9-4d5a-b3ab-b0a3cd2294c0.3407f8136fd8682952c311b0942882b340f1c454.zh-cn.xlf",
+      "HandoffFileCommit": "fd107d6986d92c31d11312bc2f708aed80c0a2d8",
+      "HandoffDateTime": "2016-03-10T10:04:02.1985874Z",
+      "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": "2e88bc7f9c1cb20a6f3ccf6b51b4e9798d13b555",
@@ -4658,10 +4658,10 @@
       "FilePathList": [
         "e2e\\5bc837c8-b232-4622-bbd0-c00e88318405.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\mt\\5bc837c8-b232-4622-bbd0-c00e88318405.18bf1454092312f9a06fbbca3c0e9aeea77ae71c.zh-cn.xlf",
-      "HandoffFileCommit": "bc4bfb0cbd011d75135626fb8553481f23ca13a8",
-      "HandoffDateTime": "2016-03-10T10:03:16.1757859Z",
-      "HandoffPriority": "mt",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\ht\\5bc837c8-b232-4622-bbd0-c00e88318405.18bf1454092312f9a06fbbca3c0e9aeea77ae71c.zh-cn.xlf",
+      "HandoffFileCommit": "fd107d6986d92c31d11312bc2f708aed80c0a2d8",
+      "HandoffDateTime": "2016-03-10T10:04:02.1985874Z",
+      "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": "2e88bc7f9c1cb20a6f3ccf6b51b4e9798d13b555",
@@ -4714,10 +4714,10 @@
       "FilePathList": [
         "e2e\\c76f6b8c-132a-451f-9e00-7dead9086cb4.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\mt\\c76f6b8c-132a-451f-9e00-7dead9086cb4.b58436ba5e4b839a6355857e27a3faae4c9f68ea.zh-cn.xlf",
-      "HandoffFileCommit": "bc4bfb0cbd011d75135626fb8553481f23ca13a8",
-      "HandoffDateTime": "2016-03-10T10:03:16.1757859Z",
-      "HandoffPriority": "mt",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\ht\\c76f6b8c-132a-451f-9e00-7dead9086cb4.b58436ba5e4b839a6355857e27a3faae4c9f68ea.zh-cn.xlf",
+      "HandoffFileCommit": "fd107d6986d92c31d11312bc2f708aed80c0a2d8",
+      "HandoffDateTime": "2016-03-10T10:04:02.1985874Z",
+      "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -4742,10 +4742,10 @@
       "FilePathList": [
         "e2e\\72750635-5657-46fb-9639-2f3ff76e79f3.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\mt\\72750635-5657-46fb-9639-2f3ff76e79f3.b7ecece8f78dc948ba06d4f5299d793fd94a6505.zh-cn.xlf",
-      "HandoffFileCommit": "bc4bfb0cbd011d75135626fb8553481f23ca13a8",
-      "HandoffDateTime": "2016-03-10T10:03:16.1757859Z",
-      "HandoffPriority": "mt",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\ht\\72750635-5657-46fb-9639-2f3ff76e79f3.b7ecece8f78dc948ba06d4f5299d793fd94a6505.zh-cn.xlf",
+      "HandoffFileCommit": "fd107d6986d92c31d11312bc2f708aed80c0a2d8",
+      "HandoffDateTime": "2016-03-10T10:04:02.1985874Z",
+      "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -4826,10 +4826,38 @@
       "FilePathList": [
         "e2e\\d09357dc-6bee-44bb-844e-5f57f1c14916.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\mt\\d09357dc-6bee-44bb-844e-5f57f1c14916.41462a4de092eca39002cd7cf48faadfa0aaf768.zh-cn.xlf",
-      "HandoffFileCommit": "bc4bfb0cbd011d75135626fb8553481f23ca13a8",
-      "HandoffDateTime": "2016-03-10T10:03:16.1757859Z",
-      "HandoffPriority": "mt",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\ht\\d09357dc-6bee-44bb-844e-5f57f1c14916.41462a4de092eca39002cd7cf48faadfa0aaf768.zh-cn.xlf",
+      "HandoffFileCommit": "fd107d6986d92c31d11312bc2f708aed80c0a2d8",
+      "HandoffDateTime": "2016-03-10T10:04:02.1985874Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "5e2e0d1d816e93a35432420aefc9d4e02530f847": {
+      "FileHash": "5e2e0d1d816e93a35432420aefc9d4e02530f847",
+      "SourceFileCommit": "1b072c0ba97210d6090c3b5905cea10924234290",
+      "SourceFilePath": "e2e\\22189fa5-3dbb-44f8-8e60-b1f6b07b5939.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\22189fa5-3dbb-44f8-8e60-b1f6b07b5939.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\ht\\22189fa5-3dbb-44f8-8e60-b1f6b07b5939.9ce878c1fc25c181bd9bd791031bed07c958bac5.zh-cn.xlf",
+      "HandoffFileCommit": "fd107d6986d92c31d11312bc2f708aed80c0a2d8",
+      "HandoffDateTime": "2016-03-10T10:04:02.1985874Z",
+      "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
