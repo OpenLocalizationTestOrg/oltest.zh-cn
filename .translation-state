@@ -3338,9 +3338,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\ht\\archive\\322627cf-f28b-4ad4-bcf4-d45a3baf76c2.2f1186afabb1ffe9f55f429b19fad9d79f07a323.zh-cn.xlf",
+      "ArchiveFileCommit": "aa9f905a8041e7630c8cc2508a45979176596067",
+      "ArchiveFileDateTime": "2016-03-10T07:48:47.5043413Z",
       "ArchiveException": null
     }
   }
