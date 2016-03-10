@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "8fa0115839e7770dab044d9533e27e49d253611d",
-  "LastTranslatedCommit": "1890a843db50229cf45c1530ddb7fa21158e6c8d",
+  "LastTranslatedCommit": "4d8baef40d6119ffdfa2f83ba20dd80ebb1f2913",
   "Items": {
     "bb4d49230783adea16cdec38feaccee8cfb971da": {
       "FileHash": "bb4d49230783adea16cdec38feaccee8cfb971da",
@@ -4232,9 +4232,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-03-10T09:37:31.208023Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: ytnuvutp.szy is different with handoff file name: 493309e2-2242-435d-84f1-ee9bf103169a.597ccdddab3a2396124ad353e79bb7071ccafeb1.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: ytnuvutp.szy is different with handoff file name: 493309e2-2242-435d-84f1-ee9bf103169a.597ccdddab3a2396124ad353e79bb7071ccafeb1.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
