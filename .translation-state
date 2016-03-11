@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "db15d3d032bbff69e80239df1883af52fcfa9aa7",
+  "LastProcessedCommit": "570613fda57497de9c6a0ac5a1963d0d962373bc",
   "LastTranslatedCommit": "77f7c0e4433347b07de35749a72e97f9b3ee0e4d",
   "Items": {
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
@@ -450,18 +450,18 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-08T09:26:37.7894068Z",
+      "HandoffDateTime": "2016-03-11T03:42:54.2713544Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
         "internal_error_message": "Handoff source file: e2e\\test1\\test1.md transformed failed.",
         "internal_error_retriable": false,
-        "exception_message": "Object reference not set to an instance of an object.",
-        "exception_type": "System.NullReferenceException",
-        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_0.<GetHandoffFiles>b__0(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 344",
+        "exception_message": "e2e\\test1\\test1.md file with commit id 01f2fddae1e18474afcc560659a69389b391670c can not be found",
+        "exception_type": "System.IO.FileNotFoundException",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 362",
         "extended_information": null
       },
-      "HandoffFailureTimes": 12,
+      "HandoffFailureTimes": 13,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -706,7 +706,8 @@
       "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
-        "e2e\\Ping.md"
+        "e2e\\Ping.md",
+        "e2e\\Pong.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\master\\Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf",
       "HandoffFileCommit": "c52341629077b283a540aea34a1f91b0c0194836",

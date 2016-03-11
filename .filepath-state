@@ -15,7 +15,8 @@
     "e2e\\workerroletest.md"
   ],
   "727be8c1708119fe5e48ae3ff5a0e7e901103c7d": [
-    "e2e\\Ping.md"
+    "e2e\\Ping.md",
+    "e2e\\Pong.md"
   ],
   "a5ae5da4fe6168f678238371e7254d930f12fe0c": [
     "e2e\\Ping.md"
