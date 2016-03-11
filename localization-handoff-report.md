@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\055ae8aa-8ee6-4a68-a56c-53ccce15ef9c.md](https://github.com/OpenLocalizationTest/oltest/blob/b492c42354877b72c54b18767acbfce4ad6d12b4/e2e/055ae8aa-8ee6-4a68-a56c-53ccce15ef9c.md) | HandedOffSuccess | [Details](#ef7b4027c9c432c9ee4a75cfc5c5aab70e61c70d1)
+ [e2e\ffb3c2fb-60d5-40be-af44-e8ea52e804d9.md](https://github.com/OpenLocalizationTest/oltest/blob/51c669747abde8aceaf000c29a7d865cec991c8c/e2e/ffb3c2fb-60d5-40be-af44-e8ea52e804d9.md) | HandedOffSuccess | [Details](#7c4d016c86b2d93cf82cd9d1b31ca156a2dac7dc5)
 
 ## Item Details
-##### <a name='ef7b4027c9c432c9ee4a75cfc5c5aab70e61c70d1'></a> Source: [e2e\055ae8aa-8ee6-4a68-a56c-53ccce15ef9c.md](https://github.com/OpenLocalizationTest/oltest/blob/b492c42354877b72c54b18767acbfce4ad6d12b4/e2e/055ae8aa-8ee6-4a68-a56c-53ccce15ef9c.md)
+##### <a name='7c4d016c86b2d93cf82cd9d1b31ca156a2dac7dc5'></a> Source: [e2e\ffb3c2fb-60d5-40be-af44-e8ea52e804d9.md](https://github.com/OpenLocalizationTest/oltest/blob/51c669747abde8aceaf000c29a7d865cec991c8c/e2e/ffb3c2fb-60d5-40be-af44-e8ea52e804d9.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [055ae8aa-8ee6-4a68-a56c-53ccce15ef9c.ca551463f61d4468aff42feedecbd15adda8ca4f.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/7a46f26497fe5373cef5cfd436f71aecdfafc1bf/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/xinjiang/ht/055ae8aa-8ee6-4a68-a56c-53ccce15ef9c.ca551463f61d4468aff42feedecbd15adda8ca4f.zh-cn.xlf)
-* Handoff Datetime: 2016-03-11 06:49:51
+* Handoff File: [ffb3c2fb-60d5-40be-af44-e8ea52e804d9.b9c80c47f4bf886bfd3e2d8877fbb487d2c33004.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/a1ba76f4f3ebf9c9a0d3d3e7e1c2667b9672354b/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/xinjiang/ht/ffb3c2fb-60d5-40be-af44-e8ea52e804d9.b9c80c47f4bf886bfd3e2d8877fbb487d2c33004.zh-cn.xlf)
+* Handoff Datetime: 2016-03-11 06:51:22
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
