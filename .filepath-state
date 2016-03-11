@@ -14,6 +14,10 @@
   "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc": [
     "e2e\\workerroletest.md"
   ],
+  "494f2f4ee04c62e79e80fe6a8519b361486fead4": [
+    "e2e\\Ping.md",
+    "e2e\\Pong.md"
+  ],
   "727be8c1708119fe5e48ae3ff5a0e7e901103c7d": [
     "e2e\\Ping.md",
     "e2e\\Pong.md"
