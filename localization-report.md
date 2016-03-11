@@ -3,9 +3,9 @@
 ## Summary
  Property | Value 
  -------- | ----- 
- Total Files | 1
+ Total Files | 3
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 0
+[ Handoff Success Files ](#handoff-success-list)| 2
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
@@ -16,6 +16,10 @@
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\2044556c-ec1d-4e6d-9e75-8f18baca15c1.md](https://github.com/OpenLocalizationTest/oltest/blob/16af65fcc72719809593e9f65d7112c3d08e829d/e2e/2044556c-ec1d-4e6d-9e75-8f18baca15c1.md) | HandedOffSuccess | [Details](#e701a042aab363018516088c1f71f210400d634d1)
+ [e2e\ed17b87a-b2e2-48ad-8870-0ee451091651.md](https://github.com/OpenLocalizationTest/oltest/blob/16af65fcc72719809593e9f65d7112c3d08e829d/e2e/ed17b87a-b2e2-48ad-8870-0ee451091651.md) | HandedOffSuccess | [Details](#d8774fc7362414475990ccca69dbb938ecbda7ee2)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -30,15 +34,39 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/08bf9e7d16a1d96ba8f175f05faa97cc0f9de7b9/.localization-config) | Ignored | [Details](#66aca4b1c2f43b14ec41e0e427345df94af1d5e10)
+ [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/16af65fcc72719809593e9f65d7112c3d08e829d/.localization-config) | Ignored | [Details](#66aca4b1c2f43b14ec41e0e427345df94af1d5e10)
 
 ## Item Details
-##### <a name='66aca4b1c2f43b14ec41e0e427345df94af1d5e10'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/08bf9e7d16a1d96ba8f175f05faa97cc0f9de7b9/.localization-config)
+##### <a name='66aca4b1c2f43b14ec41e0e427345df94af1d5e10'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/16af65fcc72719809593e9f65d7112c3d08e829d/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='e701a042aab363018516088c1f71f210400d634d1'></a> Source: [e2e\2044556c-ec1d-4e6d-9e75-8f18baca15c1.md](https://github.com/OpenLocalizationTest/oltest/blob/16af65fcc72719809593e9f65d7112c3d08e829d/e2e/2044556c-ec1d-4e6d-9e75-8f18baca15c1.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [2044556c-ec1d-4e6d-9e75-8f18baca15c1.ad0ab4c56f1697278cea58183bbd0fd2833db8ac.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/fb49a2526dfdd6c089800d74d7a45dc071384dc6/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/terryjin/ht/2044556c-ec1d-4e6d-9e75-8f18baca15c1.ad0ab4c56f1697278cea58183bbd0fd2833db8ac.zh-cn.xlf)
+* Handoff Datetime: 2016-03-11 07:53:28
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='d8774fc7362414475990ccca69dbb938ecbda7ee2'></a> Source: [e2e\ed17b87a-b2e2-48ad-8870-0ee451091651.md](https://github.com/OpenLocalizationTest/oltest/blob/16af65fcc72719809593e9f65d7112c3d08e829d/e2e/ed17b87a-b2e2-48ad-8870-0ee451091651.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [ed17b87a-b2e2-48ad-8870-0ee451091651.804c4a9116e5a2580205c697fccc1b36a87c3455.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/fb49a2526dfdd6c089800d74d7a45dc071384dc6/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/terryjin/ht/ed17b87a-b2e2-48ad-8870-0ee451091651.804c4a9116e5a2580205c697fccc1b36a87c3455.zh-cn.xlf)
+* Handoff Datetime: 2016-03-11 07:53:28
+* Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
