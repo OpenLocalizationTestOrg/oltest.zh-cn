@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "42c03f5aa3f7c3393b3a80c5542ddadb2d8ca09a",
-  "LastTranslatedCommit": "a851053be8d812f0d9b368b2e76da3d95057812c",
+  "LastTranslatedCommit": "16c9fdf9d4a770493b88110b37c02f5b5247b44c",
   "Items": {
     "ac5610e14e35343352c9459b3e335b10c5a31637": {
       "FileHash": "ac5610e14e35343352c9459b3e335b10c5a31637",
@@ -1353,9 +1353,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-03-14T09:57:45.44729Z",
+      "HandbackException": {
+        "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
+        "internal_error_message": "The handback type mt is not match with handoff type ht.",
+        "internal_error_retriable": false,
+        "exception_message": "The handback type mt is not match with handoff type ht.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
