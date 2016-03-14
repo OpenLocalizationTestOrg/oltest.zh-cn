@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 9
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 3
+[ Handoff Success Files ](#handoff-success-list)| 2
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 3
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
-[ In Sync Handback Files ](#insync-handback-success-list)| 1
+[ In Sync Handback Files ](#insync-handback-success-list)| 2
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -20,7 +20,6 @@
  ----------- | ------ | ------- 
  [e2e\163d6d51-a136-4906-a1a5-d29efb81317b.md](https://github.com/OpenLocalizationTest/oltest/blob/c69183e4d8cd2763a40c2b7f4726aa64269be06a/e2e/163d6d51-a136-4906-a1a5-d29efb81317b.md) | HandedOffSuccess | [Details](#daeedcf9ca21b8189aaf0deb26c1dfdd1e9597e01)
  [e2e\407d29e7-d7f3-4ba8-9910-8b5e18afd888.md](https://github.com/OpenLocalizationTest/oltest/blob/b4fcfc172b0d8e9f99d91d32b868225bf35884d9/e2e/407d29e7-d7f3-4ba8-9910-8b5e18afd888.md) | HandedOffSuccess | [Details](#1bc973530f61828139e4aa1a2bf9d38aae9bd01f2)
- [e2e\f155536a-fc07-4934-84be-ea4978850230.md](https://github.com/OpenLocalizationTest/oltest/blob/65eaff7ea20a8df92fa5a1fd9502e6a94d538362/e2e/f155536a-fc07-4934-84be-ea4978850230.md) | HandedOffSuccess | [Details](#2d93c635464791b1ba88da427c807ef01faa96bd7)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -42,6 +41,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [e2e\637804ab-8191-4dfb-bc64-5cbdcdd84a8f.md](https://github.com/OpenLocalizationTest/oltest/blob/30539d5cdf6d8a1012c5c7b769e7ddefeda11f97/e2e/637804ab-8191-4dfb-bc64-5cbdcdd84a8f.md) | InSyncHandedBackSuccess | [Details](#f5a207e5b3a31d91c5a4efc0e38ea172de25caaa4)
+ [e2e\f155536a-fc07-4934-84be-ea4978850230.md](https://github.com/OpenLocalizationTest/oltest/blob/65eaff7ea20a8df92fa5a1fd9502e6a94d538362/e2e/f155536a-fc07-4934-84be-ea4978850230.md) | InSyncHandedBackSuccess | [Details](#2d93c635464791b1ba88da427c807ef01faa96bd7)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -137,15 +137,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='2d93c635464791b1ba88da427c807ef01faa96bd7'></a> Source: [e2e\f155536a-fc07-4934-84be-ea4978850230.md](https://github.com/OpenLocalizationTest/oltest/blob/65eaff7ea20a8df92fa5a1fd9502e6a94d538362/e2e/f155536a-fc07-4934-84be-ea4978850230.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\f155536a-fc07-4934-84be-ea4978850230.md](https://github.com/OpenLocalizationTestOrg/oltest.zh-cn/blob/68f5cb09a4357964d369fdf166146f8d8e3b0f0c/e2e/f155536a-fc07-4934-84be-ea4978850230.md)
 * Handoff File: [f155536a-fc07-4934-84be-ea4978850230.bebd4163367f2c679c53b0fcc3158ace7e58a463.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/dd27f0c8b2d3ea1044aecc42d24fd8db8f76725b/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/yuwzho/ht/f155536a-fc07-4934-84be-ea4978850230.bebd4163367f2c679c53b0fcc3158ace7e58a463.zh-cn.xlf)
 * Handoff Datetime: 2016-03-14 09:08:12
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [f155536a-fc07-4934-84be-ea4978850230.bebd4163367f2c679c53b0fcc3158ace7e58a463.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/b9d7ed031efc56a8c0d9c2e564326931a300e9c1/ol-handback/OpenLocalizationTestOrg/oltest.zh-cn/yuwzho/ht/f155536a-fc07-4934-84be-ea4978850230.bebd4163367f2c679c53b0fcc3158ace7e58a463.zh-cn.xlf)
+* Handback Datetime: 2016-03-14 09:08:48
 * [Back to Top](#report-top)
 
 ##### <a name='171814966321619626c11f8873193009a8d9490e8'></a> Source: [e2e\f2341738-8a98-45e4-9165-7d561a10a1ea.md](https://github.com/OpenLocalizationTest/oltest/blob/9a74638d1cebff8e110b6258c1af874ca78c4d48/e2e/f2341738-8a98-45e4-9165-7d561a10a1ea.md)
