@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\a19851dd-95c5-4fd7-a74b-fa32336421a5.md](https://github.com/OpenLocalizationTest/oltest/blob/8c826f59dc3fe57714a61500c4dafbcd915a0c1f/e2e/a19851dd-95c5-4fd7-a74b-fa32336421a5.md) | HandedOffSuccess | [Details](#7fa60d3f084c564b6697ef1f1226c37cfd54045c1)
+ [e2e\a19851dd-95c5-4fd7-a74b-fa32336421a5.md](https://github.com/OpenLocalizationTest/oltest/blob/f621b7862a551f447c0711cf580593503619dd59/e2e/a19851dd-95c5-4fd7-a74b-fa32336421a5.md) | HandedOffSuccess | [Details](#493de4467b97f2b6585ce79b8738f9e11125a2a61)
 
 ## Item Details
-##### <a name='7fa60d3f084c564b6697ef1f1226c37cfd54045c1'></a> Source: [e2e\a19851dd-95c5-4fd7-a74b-fa32336421a5.md](https://github.com/OpenLocalizationTest/oltest/blob/8c826f59dc3fe57714a61500c4dafbcd915a0c1f/e2e/a19851dd-95c5-4fd7-a74b-fa32336421a5.md)
+##### <a name='493de4467b97f2b6585ce79b8738f9e11125a2a61'></a> Source: [e2e\a19851dd-95c5-4fd7-a74b-fa32336421a5.md](https://github.com/OpenLocalizationTest/oltest/blob/f621b7862a551f447c0711cf580593503619dd59/e2e/a19851dd-95c5-4fd7-a74b-fa32336421a5.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [a19851dd-95c5-4fd7-a74b-fa32336421a5.d5e74c1fd07591445f367630e88cfb8b0aecad31.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/8ca0602dfaeaf2ccc7be4e77f2776f9296e7db56/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/yuwzho/ht/a19851dd-95c5-4fd7-a74b-fa32336421a5.d5e74c1fd07591445f367630e88cfb8b0aecad31.zh-cn.xlf)
-* Handoff Datetime: 2016-03-14 09:32:11
+* Handoff File: [a19851dd-95c5-4fd7-a74b-fa32336421a5.d5e74c1fd07591445f367630e88cfb8b0aecad31.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/72ed93c8abb5b0569f5550be24dd78c5133ac812/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/yuwzho/ht/a19851dd-95c5-4fd7-a74b-fa32336421a5.d5e74c1fd07591445f367630e88cfb8b0aecad31.zh-cn.xlf)
+* Handoff Datetime: 2016-03-14 09:32:55
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
