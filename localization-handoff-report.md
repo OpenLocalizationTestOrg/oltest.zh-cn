@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\8be78369-feb3-4ac8-8fbe-156e578d8caa.md](https://github.com/OpenLocalizationTest/oltest/blob/256bb5fb9c77bb17e9b114c3e6fad535f3736151/e2e/8be78369-feb3-4ac8-8fbe-156e578d8caa.md) | HandedOffSuccess | [Details](#33c080b913c6b51ae150ff9a139256cbeb0dae1e8)
- [e2e\f2bfef44-1289-49c9-9533-f1c319d5a2c6.md](https://github.com/OpenLocalizationTest/oltest/blob/256bb5fb9c77bb17e9b114c3e6fad535f3736151/e2e/f2bfef44-1289-49c9-9533-f1c319d5a2c6.md) | HandedOffSuccess | [Details](#360bd56f81e209768be4685843864d73c0273ed414)
+ [e2e\350f8f37-f514-4f71-a57d-e0db3f5850f0.md](https://github.com/OpenLocalizationTest/oltest/blob/4512204f91804229d4b2bb79c5df9e044eea4d7f/e2e/350f8f37-f514-4f71-a57d-e0db3f5850f0.md) | HandedOffSuccess | [Details](#ee65bec214e8e0648e3fb055622b8e86ba0f07a31)
+ [e2e\fba884bb-3da0-43b0-bfca-88f281cccd21.md](https://github.com/OpenLocalizationTest/oltest/blob/4512204f91804229d4b2bb79c5df9e044eea4d7f/e2e/fba884bb-3da0-43b0-bfca-88f281cccd21.md) | HandedOffSuccess | [Details](#3ef691de9ba39923d59ee5379ae0cf0a1892ce4b2)
 
 ## Item Details
-##### <a name='33c080b913c6b51ae150ff9a139256cbeb0dae1e8'></a> Source: [e2e\8be78369-feb3-4ac8-8fbe-156e578d8caa.md](https://github.com/OpenLocalizationTest/oltest/blob/256bb5fb9c77bb17e9b114c3e6fad535f3736151/e2e/8be78369-feb3-4ac8-8fbe-156e578d8caa.md)
+##### <a name='ee65bec214e8e0648e3fb055622b8e86ba0f07a31'></a> Source: [e2e\350f8f37-f514-4f71-a57d-e0db3f5850f0.md](https://github.com/OpenLocalizationTest/oltest/blob/4512204f91804229d4b2bb79c5df9e044eea4d7f/e2e/350f8f37-f514-4f71-a57d-e0db3f5850f0.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [8be78369-feb3-4ac8-8fbe-156e578d8caa.667f39502873ef2771e6376728257cbcaf289321.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/621b5544080a0a30d4bff610d320521d2b1f21f1/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/yuwzho/8be78369-feb3-4ac8-8fbe-156e578d8caa.667f39502873ef2771e6376728257cbcaf289321.zh-cn.xlf)
-* Handoff Datetime: 2016-03-15 04:42:10
+* Handoff File: [350f8f37-f514-4f71-a57d-e0db3f5850f0.35a0ffd6bcc734b58cc2eaaaf048de40737ac9c9.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/124fc9b828a26482af2dc65ecf9ea36b4b3bed17/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/yuwzho/high/350f8f37-f514-4f71-a57d-e0db3f5850f0.35a0ffd6bcc734b58cc2eaaaf048de40737ac9c9.zh-cn.xlf)
+* Handoff Datetime: 2016-03-15 04:48:27
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22,11 +22,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='360bd56f81e209768be4685843864d73c0273ed414'></a> Source: [e2e\f2bfef44-1289-49c9-9533-f1c319d5a2c6.md](https://github.com/OpenLocalizationTest/oltest/blob/256bb5fb9c77bb17e9b114c3e6fad535f3736151/e2e/f2bfef44-1289-49c9-9533-f1c319d5a2c6.md)
+##### <a name='3ef691de9ba39923d59ee5379ae0cf0a1892ce4b2'></a> Source: [e2e\fba884bb-3da0-43b0-bfca-88f281cccd21.md](https://github.com/OpenLocalizationTest/oltest/blob/4512204f91804229d4b2bb79c5df9e044eea4d7f/e2e/fba884bb-3da0-43b0-bfca-88f281cccd21.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [f2bfef44-1289-49c9-9533-f1c319d5a2c6.5cc6eedd01225b5a51356a1da6d48fd0cdebce68.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/621b5544080a0a30d4bff610d320521d2b1f21f1/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/yuwzho/f2bfef44-1289-49c9-9533-f1c319d5a2c6.5cc6eedd01225b5a51356a1da6d48fd0cdebce68.zh-cn.xlf)
-* Handoff Datetime: 2016-03-15 04:42:10
+* Handoff File: [fba884bb-3da0-43b0-bfca-88f281cccd21.390e5f91d7ef55094b0df3f6842fdf56c53c6b25.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/124fc9b828a26482af2dc65ecf9ea36b4b3bed17/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/yuwzho/high/fba884bb-3da0-43b0-bfca-88f281cccd21.390e5f91d7ef55094b0df3f6842fdf56c53c6b25.zh-cn.xlf)
+* Handoff Datetime: 2016-03-15 04:48:27
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
