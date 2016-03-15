@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "324645f63872023f01b41b320d935a25e8253eb4",
-  "LastTranslatedCommit": "d61d3cd6c5e99afaacfc223555fd15abb3b65942",
+  "LastTranslatedCommit": "34c1e7a0dcb02ca5e81a5810c522e7ab3119a85f",
   "Items": {
     "ac5610e14e35343352c9459b3e335b10c5a31637": {
       "FileHash": "ac5610e14e35343352c9459b3e335b10c5a31637",
@@ -2426,9 +2426,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-03-15T03:46:42.6110831Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 0pjs0wy3.xjd is different with handoff file name: 36e7dab6-6ad8-4f94-ae6f-6b12fed0cda4.473fb19fdd33313d689175ef688cb0ff5e5d9bd2.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 0pjs0wy3.xjd is different with handoff file name: 36e7dab6-6ad8-4f94-ae6f-6b12fed0cda4.473fb19fdd33313d689175ef688cb0ff5e5d9bd2.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
