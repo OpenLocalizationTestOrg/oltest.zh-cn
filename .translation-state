@@ -3154,9 +3154,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\yuwzho\\archive\\b56d9944-3719-48c5-9594-1f555525fffa.c23d583496b900f51a387943c571f86c72e4afeb.zh-cn.xlf",
+      "ArchiveFileCommit": "7ab9f8c75dd5ff2d14099c999185096169377bc2",
+      "ArchiveFileDateTime": "2016-03-15T04:20:38.1655504Z",
       "ArchiveException": null
     },
     "5b3b5f7fb7ee67bc74ba516eb31245f2b42c243b": {
@@ -3182,9 +3182,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\yuwzho\\archive\\edafb440-b373-4843-8f79-6acb3f8d93be.37d00ee023fc312fad184a0e9a585975231a526f.zh-cn.xlf",
+      "ArchiveFileCommit": "7ab9f8c75dd5ff2d14099c999185096169377bc2",
+      "ArchiveFileDateTime": "2016-03-15T04:20:38.1655504Z",
       "ArchiveException": null
     }
   }
