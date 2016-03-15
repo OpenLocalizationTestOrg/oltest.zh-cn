@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "db8a8c349de24a53e152ec3d3645f3370eb3593d",
+  "LastProcessedCommit": "e12aaca9cdcca1fa4a37aa31d82b78d896c8ed0c",
   "LastTranslatedCommit": "34c1e7a0dcb02ca5e81a5810c522e7ab3119a85f",
   "Items": {
     "ac5610e14e35343352c9459b3e335b10c5a31637": {
@@ -2539,6 +2539,35 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\yuwzho\\ht\\284d4163-7e09-49d3-b46d-ec46485f8e74.3b122179af5fe3bd344b553a9db129a64cc38e5f.zh-cn.xlf",
       "HandoffFileCommit": "257ca4cba2fecacd7b5d4fb901cec074aea5c548",
       "HandoffDateTime": "2016-03-15T03:50:41.197195Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "2a6fb154a811d59425811f50a0e992337aee2ce5": {
+      "FileHash": "2a6fb154a811d59425811f50a0e992337aee2ce5",
+      "SourceFileCommit": "e12aaca9cdcca1fa4a37aa31d82b78d896c8ed0c",
+      "SourceFilePath": "e2e\\10cac23f-33b5-414f-8d99-a7aa6c7c5b57.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\10cac23f-33b5-414f-8d99-a7aa6c7c5b57.md",
+        "e2e\\ffff8490e442-d78f-4da2-82dc-f2a9b3676056.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\yuwzho\\ht\\10cac23f-33b5-414f-8d99-a7aa6c7c5b57.d791038c746aeb0158b0700491b9370cd949de6b.zh-cn.xlf",
+      "HandoffFileCommit": "062526542c1af18fbf562eed1febcc09891bc1f7",
+      "HandoffDateTime": "2016-03-15T03:52:05.5328556Z",
       "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
