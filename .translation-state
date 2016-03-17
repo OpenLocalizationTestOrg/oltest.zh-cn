@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "b158c8224484e0020da6166f9bc31d428b838849",
-  "LastTranslatedCommit": "e1129ea65ad80797d922e0dd84026dda1a3ccd19",
+  "LastTranslatedCommit": "ea5636488c21b2597904971c7421e6a3ed2ca1db",
   "Items": {
     "bb4d49230783adea16cdec38feaccee8cfb971da": {
       "FileHash": "bb4d49230783adea16cdec38feaccee8cfb971da",
@@ -6779,9 +6779,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-03-17T03:11:32.8534461Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: yq041egs.rcs is different with handoff file name: 398a085f-eaf0-4fe7-8fea-7733b3c80634.3b95c3322b1e1d8bcb1d8c53caa9e73b448ed0a3.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: yq041egs.rcs is different with handoff file name: 398a085f-eaf0-4fe7-8fea-7733b3c80634.3b95c3322b1e1d8bcb1d8c53caa9e73b448ed0a3.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
