@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "bb5c4fc5637a9394241b02f285ed37d7ed76546b",
+  "LastProcessedCommit": "ca67744c28f809f4c9709c15c545fc8a3cba8427",
   "LastTranslatedCommit": "ea5636488c21b2597904971c7421e6a3ed2ca1db",
   "Items": {
     "bb4d49230783adea16cdec38feaccee8cfb971da": {
@@ -6892,6 +6892,35 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\ht\\80e5d482-4db8-4d1c-9363-a0b23d7989f5.2a236c58fd64cbc6905e20200ca0f563eec650ae.zh-cn.xlf",
       "HandoffFileCommit": "d29926ee041119bb0bd7c2dce25e766e65a185ff",
       "HandoffDateTime": "2016-03-17T03:15:37.3675763Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "e5de24b57f344c9dc99fb5583272fd47328ec97e": {
+      "FileHash": "e5de24b57f344c9dc99fb5583272fd47328ec97e",
+      "SourceFileCommit": "ca67744c28f809f4c9709c15c545fc8a3cba8427",
+      "SourceFilePath": "e2e\\e1fe6ad5-9980-499d-9b11-6c0e796de5e6.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\e1fe6ad5-9980-499d-9b11-6c0e796de5e6.md",
+        "e2e\\ffffdc1eb812-08f8-450e-9540-9d227b960e7a.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\ht\\e1fe6ad5-9980-499d-9b11-6c0e796de5e6.128aa420178ecbb02ec5442d57c71d2f6af2255d.zh-cn.xlf",
+      "HandoffFileCommit": "db32c318a11fcfdc09a1a5e8e8cf58ad3fc37644",
+      "HandoffDateTime": "2016-03-17T03:17:00.9021259Z",
       "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
