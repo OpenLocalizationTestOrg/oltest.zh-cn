@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "d4ed5db2b70961318fb19e8f4519265ba553db52",
+  "LastProcessedCommit": "ad6eb4e84daf9739accbf89d8e871d7a76fe8eab",
   "LastTranslatedCommit": "d4f2dddc1d7feb3a798bc0102f980f65bb50a371",
   "Items": {
     "bb4d49230783adea16cdec38feaccee8cfb971da": {
@@ -7001,7 +7001,9 @@
       "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
-        "e2e\\3d898684-bb87-4b1c-9483-382e80c605f1.md"
+        "e2e\\3d898684-bb87-4b1c-9483-382e80c605f1.md",
+        "e2e\\fffff0f43abbc-628d-4286-bcba-aa91767eaec3.md",
+        "e2e\\fffffe9c7973c-524a-40cf-a8d2-1dbd24d7b7be.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\xinjiang\\ht\\3d898684-bb87-4b1c-9483-382e80c605f1.6d7659a2901e333762a357162aed2fcfd0b2a5e8.zh-cn.xlf",
       "HandoffFileCommit": "6e3a1c113d8d2aef05bd6809a2d0157ed7063af5",
