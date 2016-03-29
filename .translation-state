@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "e98ebcf2da5d90b3f7bf032154e871d933c40b2d",
+  "LastProcessedCommit": "e04d5a257b9c6d629155bafcb0366b9817b4b1d1",
   "LastTranslatedCommit": "a89e0057dd1e5b7b234dfd8e8bcad429995b894e",
   "Items": {
     "4566a0d87b9c05529b2e190e638313f832d4fb6f": {
@@ -1806,6 +1806,132 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\ci\\ht\\833a73cb9eaea57fd0a13cdc064575cd9f4e2550.png",
       "HandoffFileCommit": "8b735d3c51c67938447b58b76bcc1281eb323f9f",
       "HandoffDateTime": "2016-03-29T15:08:57.2305527Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "9d2476bae83f8eafa7fcb4d594d01c706d7a9966": {
+      "FileHash": "9d2476bae83f8eafa7fcb4d594d01c706d7a9966",
+      "SourceFileCommit": "e04d5a257b9c6d629155bafcb0366b9817b4b1d1",
+      "SourceFilePath": "e2e\\calleeMd1.md",
+      "HandoffReason": 1,
+      "DependencyFrom": [
+        "e2e\\callerMd1.md",
+        "e2e\\callerMd2.md"
+      ],
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\calleeMd1.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\ci\\ht\\calleeMd1.e8f5ecec2b522eb147a4ff0ca19ca72e17f2186d.zh-cn.xlf",
+      "HandoffFileCommit": "6e5c7610558e61c6625b6508a1a9e90016c6d955",
+      "HandoffDateTime": "2016-03-29T15:10:13.9850687Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "33c09ff7dcb712140ecd8e98dc3f0e885c10ea03": {
+      "FileHash": "33c09ff7dcb712140ecd8e98dc3f0e885c10ea03",
+      "SourceFileCommit": "e04d5a257b9c6d629155bafcb0366b9817b4b1d1",
+      "SourceFilePath": "e2e\\calleeMd2.md",
+      "HandoffReason": 1,
+      "DependencyFrom": [
+        "e2e\\callerMd1.md"
+      ],
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\calleeMd2.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\ci\\ht\\calleeMd2.63b76063f058ecc63ff1dda71ea2a67db72ae6e1.zh-cn.xlf",
+      "HandoffFileCommit": "6e5c7610558e61c6625b6508a1a9e90016c6d955",
+      "HandoffDateTime": "2016-03-29T15:10:13.9850687Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "f30d46065dff526518d76ef05f12f430b39eac6a": {
+      "FileHash": "f30d46065dff526518d76ef05f12f430b39eac6a",
+      "SourceFileCommit": "e04d5a257b9c6d629155bafcb0366b9817b4b1d1",
+      "SourceFilePath": "e2e\\callerMd1.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": [
+        "e2e\\calleeMd1.md",
+        "e2e\\calleeMd2.md"
+      ],
+      "FilePathList": [
+        "e2e\\callerMd1.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\ci\\ht\\callerMd1.a3bf9f4e7fa2750ec06df0b78a76ae5cafa0e0fd.zh-cn.xlf",
+      "HandoffFileCommit": "6e5c7610558e61c6625b6508a1a9e90016c6d955",
+      "HandoffDateTime": "2016-03-29T15:10:13.9850687Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "343b20db32a3404990abaf9e1a00ddb8a77ae733": {
+      "FileHash": "343b20db32a3404990abaf9e1a00ddb8a77ae733",
+      "SourceFileCommit": "e04d5a257b9c6d629155bafcb0366b9817b4b1d1",
+      "SourceFilePath": "e2e\\callerMd2.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": [
+        "e2e\\calleeMd1.md"
+      ],
+      "FilePathList": [
+        "e2e\\callerMd2.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\ci\\ht\\callerMd2.c7d976edeb9cd5406eae7aba4c05d6d92e81ae95.zh-cn.xlf",
+      "HandoffFileCommit": "6e5c7610558e61c6625b6508a1a9e90016c6d955",
+      "HandoffDateTime": "2016-03-29T15:10:13.9850687Z",
       "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
