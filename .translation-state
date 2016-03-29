@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "d60f9e221085d16aef2c4245d8efb58d83abd8c6",
+  "LastProcessedCommit": "e98ebcf2da5d90b3f7bf032154e871d933c40b2d",
   "LastTranslatedCommit": "a89e0057dd1e5b7b234dfd8e8bcad429995b894e",
   "Items": {
     "4566a0d87b9c05529b2e190e638313f832d4fb6f": {
@@ -1715,6 +1715,97 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\ci\\ht\\e33005ed-5d1f-478c-986a-d0bce68191a9.9d1fc50897b016fbb503cac2667c8cfde6ccb5f2.zh-cn.xlf",
       "HandoffFileCommit": "bd7753fb642fea0aeed3b9e8cc67b0f0ed8058c1",
       "HandoffDateTime": "2016-03-29T15:06:34.4230501Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "154f1556ddb491663e40367ac9cf3e884b7c0db4": {
+      "FileHash": "154f1556ddb491663e40367ac9cf3e884b7c0db4",
+      "SourceFileCommit": "e98ebcf2da5d90b3f7bf032154e871d933c40b2d",
+      "SourceFilePath": "e2e\\346a4b70-c07d-462f-9509-a432d0f78ce4.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "e2e\\c815adaf-dc8b-4974-9245-8b23ac2b41d3.md"
+      ],
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\346a4b70-c07d-462f-9509-a432d0f78ce4.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\ci\\ht\\154f1556ddb491663e40367ac9cf3e884b7c0db4.png",
+      "HandoffFileCommit": "8b735d3c51c67938447b58b76bcc1281eb323f9f",
+      "HandoffDateTime": "2016-03-29T15:08:57.2305527Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "7e1f73b80eb1b5ff608738bd183ce2b22542ea31": {
+      "FileHash": "7e1f73b80eb1b5ff608738bd183ce2b22542ea31",
+      "SourceFileCommit": "e98ebcf2da5d90b3f7bf032154e871d933c40b2d",
+      "SourceFilePath": "e2e\\c815adaf-dc8b-4974-9245-8b23ac2b41d3.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\c815adaf-dc8b-4974-9245-8b23ac2b41d3.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\ci\\ht\\c815adaf-dc8b-4974-9245-8b23ac2b41d3.0fde6f121296225e3dd42d5d5b1e89b6715f7be9.zh-cn.xlf",
+      "HandoffFileCommit": "8b735d3c51c67938447b58b76bcc1281eb323f9f",
+      "HandoffDateTime": "2016-03-29T15:08:57.2305527Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "833a73cb9eaea57fd0a13cdc064575cd9f4e2550": {
+      "FileHash": "833a73cb9eaea57fd0a13cdc064575cd9f4e2550",
+      "SourceFileCommit": "e98ebcf2da5d90b3f7bf032154e871d933c40b2d",
+      "SourceFilePath": "e2e\\cbd7cc7c-c6cb-485d-bccd-8c0fbef64c47.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "e2e\\c815adaf-dc8b-4974-9245-8b23ac2b41d3.md"
+      ],
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\cbd7cc7c-c6cb-485d-bccd-8c0fbef64c47.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\ci\\ht\\833a73cb9eaea57fd0a13cdc064575cd9f4e2550.png",
+      "HandoffFileCommit": "8b735d3c51c67938447b58b76bcc1281eb323f9f",
+      "HandoffDateTime": "2016-03-29T15:08:57.2305527Z",
       "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
