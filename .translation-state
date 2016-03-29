@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "0ccd4554bc5e334fae14a4233403e8a41e64bea8",
+  "LastProcessedCommit": "7be5590a5736312885f63c13f41ee7e37de90c30",
   "LastTranslatedCommit": "171891b1eba3983501f52bbbe89a6e2aaee9a6c7",
   "Items": {
     "4566a0d87b9c05529b2e190e638313f832d4fb6f": {
@@ -2041,7 +2041,7 @@
     },
     "d1d8791cae17fcdc700360ac343447e9203469d7": {
       "FileHash": "d1d8791cae17fcdc700360ac343447e9203469d7",
-      "SourceFileCommit": "00b13fce89737302106f5402fd3c232452e6464e",
+      "SourceFileCommit": "7be5590a5736312885f63c13f41ee7e37de90c30",
       "SourceFilePath": "e2e\\ce25fea9-eeba-4482-b74b-86a9479213bd.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2050,19 +2050,19 @@
         "e2e\\ce25fea9-eeba-4482-b74b-86a9479213bd.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\ci\\ht\\ce25fea9-eeba-4482-b74b-86a9479213bd.04997b39fe29eb98abc7ba3a2aa456dbe39a4db0.zh-cn.xlf",
-      "HandoffFileCommit": "f76b33cc55aa75dddd056edb5ab081f16d467e8c",
-      "HandoffDateTime": "2016-03-29T15:19:11.1450613Z",
+      "HandoffFileCommit": "32812014c3de158fb8ea3f2ddad5b5af3753eb56",
+      "HandoffDateTime": "2016-03-29T15:23:41.2525475Z",
       "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": "8080e8a155ad58ad354d4440902c586183289110",
-      "TargetFilePath": "e2e\\ce25fea9-eeba-4482-b74b-86a9479213bd.md",
-      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\oltest.zh-cn\\ci\\ht\\ce25fea9-eeba-4482-b74b-86a9479213bd.04997b39fe29eb98abc7ba3a2aa456dbe39a4db0.zh-cn.xlf",
-      "HandbackFileCommit": "3608dd04ef2244d302526b7886e77c3f3b3e4876",
-      "HandbackDateTime": "2016-03-29T15:19:59.0382965Z",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "2016-03-29T15:19:59.0382965Z",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
