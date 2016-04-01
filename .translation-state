@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "e86091f760f80f5da52eb13deb94c16c1af6e996",
+  "LastProcessedCommit": "2e68134807d1a3653200e13a802ca4da7c3e9d3e",
   "LastTranslatedCommit": "77f7c0e4433347b07de35749a72e97f9b3ee0e4d",
   "Items": {
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
@@ -466,7 +466,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-30T05:39:13.466256Z",
+      "HandoffDateTime": "2016-04-01T07:28:00.5189563Z",
       "HandoffPriority": "ht-test",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -477,7 +477,7 @@
         "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 359",
         "extended_information": null
       },
-      "HandoffFailureTimes": 26,
+      "HandoffFailureTimes": 27,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -979,10 +979,10 @@
         "e2e\\Ping.md",
         "e2e\\Pong.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\master\\Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf",
-      "HandoffFileCommit": "500844b57f64b2963ded1fdf7710d6356f13a673",
-      "HandoffDateTime": "2016-03-11T03:53:32.9640826Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\master\\ht-test\\Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf",
+      "HandoffFileCommit": "c6a8916e658ba215c6daba5f195941e740d5c8ee",
+      "HandoffDateTime": "2016-04-01T07:28:00.5189563Z",
+      "HandoffPriority": "ht-test",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -993,9 +993,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\master\\archive\\Ping.95b58797b320fac8f901ea501ac186551882a36c.zh-cn.xlf",
-      "ArchiveFileCommit": "392e2c27e348bf541b193c36808c0a640c901c39",
-      "ArchiveFileDateTime": "2016-03-11T04:58:41.6428635Z",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null
     },
     "4bbaa6a866490f7f9a4ba831373345d0fe1e721a": {
