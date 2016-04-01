@@ -1,0 +1,4 @@
+[submodule "testmodule"]
+	path = modules/_testmodules
+	url = https://github.com/OpenLocalizationTest/oltest_ems
+	branch = master
