@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "abb233c4d411caa93101551dafb928826b12a967",
+  "LastProcessedCommit": "dcdf111b3e758e36f947a0f912bd455d7d467668",
   "LastTranslatedCommit": "77f7c0e4433347b07de35749a72e97f9b3ee0e4d",
   "Items": {
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
@@ -159,8 +159,8 @@
         "e2e\\workerroletest.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\master\\ht-test\\workerroletest.dc40fb5e16870e53471bb0020c81ccf8829300ba.zh-cn.xlf",
-      "HandoffFileCommit": "1d31feb1726324a51f132ef9f3969ba2168f3bc8",
-      "HandoffDateTime": "2016-04-04T03:46:19.0526474Z",
+      "HandoffFileCommit": "e3598f34b0ae5d0377bbf2404695fc58665db694",
+      "HandoffDateTime": "2016-04-08T04:07:37.559078Z",
       "HandoffPriority": "ht-test",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -467,7 +467,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-04-08T03:36:02.6861022Z",
+      "HandoffDateTime": "2016-04-08T04:07:37.559078Z",
       "HandoffPriority": "ht-test",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -478,7 +478,7 @@
         "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 359",
         "extended_information": null
       },
-      "HandoffFailureTimes": 34,
+      "HandoffFailureTimes": 35,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
